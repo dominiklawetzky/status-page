@@ -22,19 +22,19 @@
     "url": "https://gj-rtk.de",
     "icon": "https://favicons.githubusercontent.com/gj-rtk.de",
     "slug": "gruene-jugend-rheingau-taunus",
-    "status": "down",
-    "uptime": "6.00%",
-    "uptimeDay": "6.00%",
-    "uptimeWeek": "6.00%",
-    "uptimeMonth": "6.00%",
-    "uptimeYear": "6.00%",
-    "time": 239,
-    "timeDay": 239,
-    "timeWeek": 239,
-    "timeMonth": 239,
-    "timeYear": 239,
+    "status": "up",
+    "uptime": "0.39%",
+    "uptimeDay": "0.39%",
+    "uptimeWeek": "0.39%",
+    "uptimeMonth": "0.39%",
+    "uptimeYear": "0.39%",
+    "time": 363,
+    "timeDay": 363,
+    "timeWeek": 363,
+    "timeMonth": 363,
+    "timeYear": 363,
     "dailyMinutesDown": {
-      "2021-05-16": 0
+      "2021-05-16": 18
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/politikundwirtschaft.dre",
     "slug": "politik-und-wirtschaft",
     "status": "down",
-    "uptime": "1.20%",
-    "uptimeDay": "1.20%",
-    "uptimeWeek": "1.20%",
-    "uptimeMonth": "1.20%",
-    "uptimeYear": "1.20%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-16": 0
+      "2021-05-16": 18
     }
   },
   {
