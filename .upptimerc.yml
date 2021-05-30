@@ -10,7 +10,7 @@ sites:
   - name: Politik und Wirtschaft
     url: https://politikundwirtschaft.de
   - name: Anna Lührmanns Website
-    url: http://157.230.110.24
+    url: https://anna-luehrmann.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
