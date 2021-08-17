@@ -4,19 +4,19 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://favicons.githubusercontent.com/dominiklawetzky.de",
     "slug": "dominik-lawetzkys-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1009,
-    "timeDay": 261,
-    "timeWeek": 928,
-    "timeMonth": 987,
-    "timeYear": 1009,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1001,
+    "timeDay": 248,
+    "timeWeek": 841,
+    "timeMonth": 963,
+    "timeYear": 1001,
     "dailyMinutesDown": {
-      "2021-08-17": 0
+      "2021-08-17": 12
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 266,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2021-08-17": 631,
+      "2021-08-17": 643,
       "2021-08-16": 1440,
       "2021-08-15": 1440,
       "2021-08-14": 1440,
