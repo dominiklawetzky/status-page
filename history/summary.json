@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 447,
-    "timeDay": 1156,
-    "timeWeek": 1423,
-    "timeMonth": 1371,
-    "timeYear": 519,
+    "time": 449,
+    "timeDay": 1238,
+    "timeWeek": 1376,
+    "timeMonth": 1367,
+    "timeYear": 522,
     "dailyMinutesDown": {
       "2022-09-15": 78
     }
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "up",
-    "uptime": "89.47%",
+    "uptime": "89.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 219,
-    "timeDay": 76,
-    "timeWeek": 221,
-    "timeMonth": 190,
+    "timeDay": 86,
+    "timeWeek": 197,
+    "timeMonth": 187,
     "timeYear": 222,
-    "dailyMinutesDown": {
-      "2022-06-30": 133
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Politik und Wirtschaft",
@@ -45,18 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/politikundwirtschaft.de.ico",
     "slug": "politik-und-wirtschaft",
     "status": "down",
-    "uptime": "37.34%",
+    "uptime": "37.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 831,
+    "time": 842,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-29": 111,
+      "2023-06-30": 110,
+      "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
@@ -419,8 +418,7 @@
       "2022-07-04": 1440,
       "2022-07-03": 1440,
       "2022-07-02": 1440,
-      "2022-07-01": 1440,
-      "2022-06-30": 1440
+      "2022-07-01": 1440
     }
   },
   {
@@ -435,12 +433,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 367,
-    "timeDay": 268,
-    "timeWeek": 332,
+    "timeDay": 284,
+    "timeWeek": 320,
     "timeMonth": 331,
     "timeYear": 370,
-    "dailyMinutesDown": {
-      "2022-06-30": 133
-    }
+    "dailyMinutesDown": {}
   }
 ]
