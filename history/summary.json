@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 508,
-    "timeDay": 1170,
-    "timeWeek": 1478,
+    "time": 510,
+    "timeDay": 1408,
+    "timeWeek": 1413,
     "timeMonth": 1338,
-    "timeYear": 598,
+    "timeYear": 601,
     "dailyMinutesDown": {
       "2022-09-15": 78
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "up",
-    "uptime": "89.82%",
+    "uptime": "89.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 139,
-    "timeWeek": 190,
-    "timeMonth": 183,
-    "timeYear": 220,
+    "timeDay": 103,
+    "timeWeek": 157,
+    "timeMonth": 176,
+    "timeYear": 219,
     "dailyMinutesDown": {}
   },
   {
@@ -43,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/politikundwirtschaft.de.ico",
     "slug": "politik-und-wirtschaft",
     "status": "down",
-    "uptime": "36.13%",
+    "uptime": "36.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -54,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-25": 107,
+      "2023-07-26": 99,
+      "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
@@ -417,8 +418,7 @@
       "2022-07-30": 1440,
       "2022-07-29": 1440,
       "2022-07-28": 1440,
-      "2022-07-27": 1440,
-      "2022-07-26": 1440
+      "2022-07-27": 1440
     }
   },
   {
@@ -433,9 +433,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 368,
-    "timeDay": 263,
-    "timeWeek": 371,
-    "timeMonth": 333,
+    "timeDay": 495,
+    "timeWeek": 383,
+    "timeMonth": 337,
     "timeYear": 373,
     "dailyMinutesDown": {}
   }
