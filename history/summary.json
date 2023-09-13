@@ -6,17 +6,16 @@
     "slug": "dominik-lawetzkys-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 615,
-    "timeDay": 1285,
-    "timeWeek": 1300,
-    "timeMonth": 1223,
-    "timeYear": 732,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
+    "time": 616,
+    "timeDay": 1054,
+    "timeWeek": 1261,
+    "timeMonth": 1209,
+    "timeYear": 733,
     "dailyMinutesDown": {
-      "2023-09-12": 13,
       "2022-09-15": 78
     }
   },
@@ -26,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "up",
-    "uptime": "90.41%",
+    "uptime": "90.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 300,
-    "timeWeek": 287,
-    "timeMonth": 249,
+    "timeDay": 146,
+    "timeWeek": 265,
+    "timeMonth": 244,
     "timeYear": 219,
     "dailyMinutesDown": {}
   },
@@ -44,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/politikundwirtschaft.de.ico",
     "slug": "politik-und-wirtschaft",
     "status": "down",
-    "uptime": "34.01%",
+    "uptime": "34.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -55,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-12": 1347,
+      "2023-09-13": 74,
+      "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
@@ -418,8 +418,7 @@
       "2022-09-17": 1440,
       "2022-09-16": 1440,
       "2022-09-15": 1440,
-      "2022-09-14": 1440,
-      "2022-09-13": 1440
+      "2022-09-14": 1440
     }
   },
   {
@@ -434,9 +433,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 371,
-    "timeDay": 405,
-    "timeWeek": 441,
-    "timeMonth": 403,
+    "timeDay": 252,
+    "timeWeek": 425,
+    "timeMonth": 399,
     "timeYear": 372,
     "dailyMinutesDown": {}
   }
