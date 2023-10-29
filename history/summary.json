@@ -4,18 +4,20 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 705,
-    "timeDay": 1112,
-    "timeWeek": 1342,
-    "timeMonth": 1271,
-    "timeYear": 860,
-    "dailyMinutesDown": {}
+    "time": 711,
+    "timeDay": 2158,
+    "timeWeek": 1575,
+    "timeMonth": 1334,
+    "timeYear": 866,
+    "dailyMinutesDown": {
+      "2023-10-29": 0
+    }
   },
   {
     "name": "Grüne Jugend Rheingau-Taunus",
@@ -41,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/politikundwirtschaft.de.ico",
     "slug": "politik-und-wirtschaft",
     "status": "down",
-    "uptime": "32.26%",
+    "uptime": "32.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -52,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-29": 79,
+      "2023-10-29": 677,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
