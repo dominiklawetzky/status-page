@@ -22,18 +22,20 @@
     "url": "https://gj-rtk.de",
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
-    "status": "up",
-    "uptime": "91.01%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "91.02%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 201,
-    "timeWeek": 208,
-    "timeMonth": 233,
-    "timeYear": 220,
-    "dailyMinutesDown": {}
+    "timeDay": 262,
+    "timeWeek": 222,
+    "timeMonth": 236,
+    "timeYear": 221,
+    "dailyMinutesDown": {
+      "2023-11-08": 0
+    }
   },
   {
     "name": "Politik und Wirtschaft",
@@ -41,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/politikundwirtschaft.de.ico",
     "slug": "politik-und-wirtschaft",
     "status": "down",
-    "uptime": "31.90%",
+    "uptime": "31.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -52,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-08": 76,
+      "2023-11-08": 1068,
       "2023-11-07": 1440,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
