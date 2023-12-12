@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 811,
-    "timeDay": 1341,
-    "timeWeek": 1211,
-    "timeMonth": 1284,
-    "timeYear": 988,
+    "time": 814,
+    "timeDay": 1483,
+    "timeWeek": 1184,
+    "timeMonth": 1297,
+    "timeYear": 991,
     "dailyMinutesDown": {
       "2023-11-21": 15
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "down",
-    "uptime": "87.88%",
+    "uptime": "87.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "91.15%",
+    "uptimeYear": "90.87%",
     "time": 220,
-    "timeDay": 187,
-    "timeWeek": 177,
-    "timeMonth": 189,
+    "timeDay": 175,
+    "timeWeek": 162,
+    "timeMonth": 190,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2023-12-11": 79,
+      "2023-12-12": 79,
+      "2023-12-11": 1440,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -78,7 +79,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/politikundwirtschaft.de.ico",
     "slug": "politik-und-wirtschaft",
     "status": "down",
-    "uptime": "30.78%",
+    "uptime": "30.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -89,7 +90,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-11": 79,
+      "2023-12-12": 79,
+      "2023-12-11": 1440,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -452,8 +454,7 @@
       "2022-12-16": 1440,
       "2022-12-15": 1440,
       "2022-12-14": 1440,
-      "2022-12-13": 1440,
-      "2022-12-12": 1440
+      "2022-12-13": 1440
     }
   },
   {
@@ -468,9 +469,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 384,
-    "timeDay": 305,
-    "timeWeek": 326,
-    "timeMonth": 342,
+    "timeDay": 218,
+    "timeWeek": 298,
+    "timeMonth": 340,
     "timeYear": 388,
     "dailyMinutesDown": {}
   }
