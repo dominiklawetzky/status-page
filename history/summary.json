@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 848,
-    "timeDay": 1529,
-    "timeWeek": 1162,
-    "timeMonth": 1271,
-    "timeYear": 1033,
+    "time": 850,
+    "timeDay": 1113,
+    "timeWeek": 1174,
+    "timeMonth": 1263,
+    "timeYear": 1035,
     "dailyMinutesDown": {
       "2023-11-21": 15
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "down",
-    "uptime": "86.41%",
+    "uptime": "86.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "86.76%",
+    "uptimeYear": "86.49%",
     "time": 219,
-    "timeDay": 307,
-    "timeWeek": 179,
+    "timeDay": 149,
+    "timeWeek": 177,
     "timeMonth": 197,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2023-12-27": 76,
+      "2023-12-28": 76,
+      "2023-12-27": 1440,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -94,7 +95,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/politikundwirtschaft.de.ico",
     "slug": "politik-und-wirtschaft",
     "status": "down",
-    "uptime": "30.26%",
+    "uptime": "30.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -105,7 +106,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-27": 76,
+      "2023-12-28": 76,
+      "2023-12-27": 1440,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -468,8 +470,7 @@
       "2023-01-01": 1440,
       "2022-12-31": 1440,
       "2022-12-30": 1440,
-      "2022-12-29": 1440,
-      "2022-12-28": 1440
+      "2022-12-29": 1440
     }
   },
   {
@@ -484,9 +485,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 383,
-    "timeDay": 396,
+    "timeDay": 263,
     "timeWeek": 299,
-    "timeMonth": 343,
+    "timeMonth": 342,
     "timeYear": 385,
     "dailyMinutesDown": {}
   }
