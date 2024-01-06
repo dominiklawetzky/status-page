@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 868,
-    "timeDay": 1515,
-    "timeWeek": 1365,
-    "timeMonth": 1262,
-    "timeYear": 1059,
+    "time": 870,
+    "timeDay": 1059,
+    "timeWeek": 1287,
+    "timeMonth": 1255,
+    "timeYear": 1061,
     "dailyMinutesDown": {
       "2023-11-21": 15
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "down",
-    "uptime": "85.60%",
+    "uptime": "85.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.30%",
+    "uptimeYear": "84.02%",
     "time": 218,
-    "timeDay": 203,
-    "timeWeek": 214,
-    "timeMonth": 193,
+    "timeDay": 146,
+    "timeWeek": 205,
+    "timeMonth": 192,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2024-01-05": 78,
+      "2024-01-06": 78,
+      "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
@@ -103,7 +104,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/politikundwirtschaft.de.ico",
     "slug": "politik-und-wirtschaft",
     "status": "down",
-    "uptime": "29.98%",
+    "uptime": "29.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -114,7 +115,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-05": 78,
+      "2024-01-06": 78,
+      "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
@@ -477,8 +479,7 @@
       "2023-01-10": 1440,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
-      "2023-01-07": 1440,
-      "2023-01-06": 1440
+      "2023-01-07": 1440
     }
   },
   {
@@ -493,10 +494,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 382,
-    "timeDay": 398,
-    "timeWeek": 339,
+    "timeDay": 281,
+    "timeWeek": 323,
     "timeMonth": 339,
-    "timeYear": 384,
+    "timeYear": 383,
     "dailyMinutesDown": {}
   }
 ]
