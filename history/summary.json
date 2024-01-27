@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
-    "time": 930,
-    "timeDay": 1077,
-    "timeWeek": 1464,
-    "timeMonth": 1312,
-    "timeYear": 1120,
+    "time": 932,
+    "timeDay": 1093,
+    "timeWeek": 1393,
+    "timeMonth": 1300,
+    "timeYear": 1122,
     "dailyMinutesDown": {
       "2024-01-18": 60,
       "2023-11-21": 15
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "down",
-    "uptime": "83.78%",
+    "uptime": "83.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "78.56%",
+    "uptimeYear": "78.28%",
     "time": 217,
-    "timeDay": 160,
-    "timeWeek": 215,
-    "timeMonth": 198,
+    "timeDay": 135,
+    "timeWeek": 205,
+    "timeMonth": 192,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2024-01-26": 21,
+      "2024-01-27": 20,
+      "2024-01-26": 1440,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
@@ -125,7 +126,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/politikundwirtschaft.de.ico",
     "slug": "politik-und-wirtschaft",
     "status": "down",
-    "uptime": "29.34%",
+    "uptime": "29.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -136,7 +137,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-26": 21,
+      "2024-01-27": 20,
+      "2024-01-26": 1440,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
@@ -499,8 +501,7 @@
       "2023-01-31": 1440,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
-      "2023-01-28": 1440,
-      "2023-01-27": 1440
+      "2023-01-28": 1440
     }
   },
   {
@@ -515,10 +516,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 382,
-    "timeDay": 260,
-    "timeWeek": 389,
-    "timeMonth": 365,
-    "timeYear": 384,
+    "timeDay": 284,
+    "timeWeek": 375,
+    "timeMonth": 362,
+    "timeYear": 383,
     "dailyMinutesDown": {}
   }
 ]
