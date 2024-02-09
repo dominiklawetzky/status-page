@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
-    "time": 961,
-    "timeDay": 1098,
-    "timeWeek": 1261,
-    "timeMonth": 1287,
-    "timeYear": 1154,
+    "time": 963,
+    "timeDay": 1105,
+    "timeWeek": 1272,
+    "timeMonth": 1290,
+    "timeYear": 1156,
     "dailyMinutesDown": {
       "2024-01-18": 60,
       "2023-11-21": 15
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "down",
-    "uptime": "82.69%",
+    "uptime": "82.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.99%",
+    "uptimeYear": "74.72%",
     "time": 217,
-    "timeDay": 144,
+    "timeDay": 154,
     "timeWeek": 163,
     "timeMonth": 181,
-    "timeYear": 212,
+    "timeYear": 211,
     "dailyMinutesDown": {
-      "2024-02-08": 21,
+      "2024-02-09": 21,
+      "2024-02-08": 1440,
       "2024-02-07": 1440,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
@@ -138,7 +139,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/politikundwirtschaft.de.ico",
     "slug": "politik-und-wirtschaft",
     "status": "down",
-    "uptime": "28.96%",
+    "uptime": "28.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -149,7 +150,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-08": 21,
+      "2024-02-09": 21,
+      "2024-02-08": 1440,
       "2024-02-07": 1440,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
@@ -512,8 +514,7 @@
       "2023-02-13": 1440,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
-      "2023-02-10": 1440,
-      "2023-02-09": 1440
+      "2023-02-10": 1440
     }
   },
   {
@@ -528,10 +529,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 381,
-    "timeDay": 235,
+    "timeDay": 284,
     "timeWeek": 298,
     "timeMonth": 354,
-    "timeYear": 382,
+    "timeYear": 381,
     "dailyMinutesDown": {}
   }
 ]
