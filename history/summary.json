@@ -6,17 +6,16 @@
     "slug": "dominik-lawetzkys-website",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1364,
-    "timeDay": 1138,
-    "timeWeek": 1319,
-    "timeMonth": 1424,
+    "timeDay": 1168,
+    "timeWeek": 1268,
+    "timeMonth": 1403,
     "timeYear": 1356,
     "dailyMinutesDown": {
-      "2025-05-21": 6,
       "2025-03-16": 39,
       "2024-06-24": 17
     }
@@ -33,12 +32,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 199,
-    "timeDay": 191,
-    "timeWeek": 233,
-    "timeMonth": 213,
+    "timeDay": 157,
+    "timeWeek": 225,
+    "timeMonth": 206,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2025-05-21": 1368,
+      "2025-05-22": 33,
+      "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
@@ -401,8 +401,7 @@
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
-      "2024-05-23": 1440,
-      "2024-05-22": 1440
+      "2024-05-23": 1440
     }
   },
   {
@@ -422,7 +421,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-21": 1368,
+      "2025-05-22": 33,
+      "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
@@ -785,8 +785,7 @@
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
-      "2024-05-23": 1440,
-      "2024-05-22": 1440
+      "2024-05-23": 1440
     }
   },
   {
@@ -796,17 +795,16 @@
     "slug": "anna-luehrmanns-website",
     "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1137,
-    "timeDay": 969,
-    "timeWeek": 1159,
-    "timeMonth": 1174,
-    "timeYear": 1225,
+    "time": 1139,
+    "timeDay": 1023,
+    "timeWeek": 1103,
+    "timeMonth": 1155,
+    "timeYear": 1224,
     "dailyMinutesDown": {
-      "2025-05-21": 6,
       "2025-03-16": 38,
       "2025-02-14": 51
     }
