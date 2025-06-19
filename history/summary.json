@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1362,
-    "timeDay": 1080,
-    "timeWeek": 1428,
-    "timeMonth": 1318,
+    "timeDay": 1174,
+    "timeWeek": 1346,
+    "timeMonth": 1304,
     "timeYear": 1359,
     "dailyMinutesDown": {
       "2025-03-16": 39,
@@ -26,18 +26,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "down",
-    "uptime": "55.30%",
+    "uptime": "55.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 199,
-    "timeDay": 159,
-    "timeWeek": 220,
-    "timeMonth": 206,
+    "timeDay": 200,
+    "timeWeek": 208,
+    "timeMonth": 198,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2025-06-16": 35,
+      "2025-06-19": 34,
+      "2025-06-18": 1440,
+      "2025-06-17": 1440,
+      "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -398,10 +401,7 @@
       "2024-06-23": 1440,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
-      "2024-06-20": 1440,
-      "2024-06-19": 1440,
-      "2024-06-18": 1440,
-      "2024-06-17": 1440
+      "2024-06-20": 1440
     }
   },
   {
@@ -410,7 +410,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/politikundwirtschaft.de.ico",
     "slug": "politik-und-wirtschaft",
     "status": "down",
-    "uptime": "19.37%",
+    "uptime": "19.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -421,7 +421,10 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-16": 35,
+      "2025-06-19": 34,
+      "2025-06-18": 1440,
+      "2025-06-17": 1440,
+      "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -782,10 +785,7 @@
       "2024-06-23": 1440,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
-      "2024-06-20": 1440,
-      "2024-06-19": 1440,
-      "2024-06-18": 1440,
-      "2024-06-17": 1440
+      "2024-06-20": 1440
     }
   },
   {
@@ -799,11 +799,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1179,
-    "timeDay": 1037,
-    "timeWeek": 1254,
-    "timeMonth": 1150,
-    "timeYear": 1226,
+    "time": 1181,
+    "timeDay": 966,
+    "timeWeek": 1134,
+    "timeMonth": 1128,
+    "timeYear": 1221,
     "dailyMinutesDown": {
       "2025-03-16": 38,
       "2025-02-14": 51
