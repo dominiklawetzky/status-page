@@ -4,19 +4,19 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "63.38%",
-    "uptimeWeek": "69.66%",
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "63.33%",
+    "uptimeWeek": "69.69%",
     "uptimeMonth": "92.30%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.36%",
     "time": 1347,
     "timeDay": 1238,
     "timeWeek": 1288,
     "timeMonth": 1318,
     "timeYear": 1343,
     "dailyMinutesDown": {
-      "2025-07-12": 312,
+      "2025-07-12": 313,
       "2025-07-11": 533,
       "2025-07-10": 626,
       "2025-07-09": 419,
@@ -24,8 +24,7 @@
       "2025-07-07": 304,
       "2025-07-06": 370,
       "2025-07-05": 349,
-      "2025-07-04": 151,
-      "2025-03-16": 39
+      "2025-07-04": 151
     }
   },
   {
@@ -45,7 +44,7 @@
     "timeMonth": 224,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-07-12": 702,
+      "2025-07-12": 710,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
@@ -429,7 +428,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-12": 702,
+      "2025-07-12": 710,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
@@ -801,13 +800,13 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "64.00%",
-    "uptimeWeek": "70.22%",
+    "uptimeDay": "63.99%",
+    "uptimeWeek": "70.25%",
     "uptimeMonth": "92.47%",
     "uptimeYear": "99.36%",
-    "time": 1111,
+    "time": 1112,
     "timeDay": 1085,
     "timeWeek": 1128,
     "timeMonth": 1140,
@@ -823,7 +822,7 @@
       "2025-07-05": 345,
       "2025-07-04": 132,
       "2025-03-16": 38,
-      "2025-02-14": 51
+      "2025-02-14": 31
     }
   }
 ]
