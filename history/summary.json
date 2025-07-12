@@ -4,11 +4,11 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "54.55%",
-    "uptimeWeek": "67.96%",
-    "uptimeMonth": "92.04%",
+    "uptimeDay": "54.51%",
+    "uptimeWeek": "68.16%",
+    "uptimeMonth": "92.08%",
     "uptimeYear": "99.34%",
     "time": 1344,
     "timeDay": 1198,
@@ -16,14 +16,14 @@
     "timeMonth": 1312,
     "timeYear": 1339,
     "dailyMinutesDown": {
-      "2025-07-12": 601,
+      "2025-07-12": 602,
       "2025-07-11": 533,
       "2025-07-10": 626,
       "2025-07-09": 419,
       "2025-07-08": 308,
       "2025-07-07": 304,
       "2025-07-06": 370,
-      "2025-07-05": 322
+      "2025-07-05": 306
     }
   },
   {
@@ -43,7 +43,7 @@
     "timeMonth": 224,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-07-12": 1271,
+      "2025-07-12": 1292,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
@@ -427,7 +427,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-12": 1271,
+      "2025-07-12": 1292,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
@@ -799,13 +799,13 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "55.22%",
-    "uptimeWeek": "68.53%",
-    "uptimeMonth": "92.13%",
-    "uptimeYear": "99.34%",
-    "time": 1135,
+    "uptimeDay": "55.21%",
+    "uptimeWeek": "68.74%",
+    "uptimeMonth": "92.19%",
+    "uptimeYear": "99.35%",
+    "time": 1136,
     "timeDay": 1037,
     "timeWeek": 1123,
     "timeMonth": 1133,
@@ -818,7 +818,7 @@
       "2025-07-08": 303,
       "2025-07-07": 285,
       "2025-07-06": 365,
-      "2025-07-05": 345
+      "2025-07-05": 319
     }
   }
 ]
