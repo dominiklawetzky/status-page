@@ -4,19 +4,19 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "53.41%",
+    "uptimeDay": "53.96%",
     "uptimeWeek": "66.71%",
-    "uptimeMonth": "91.61%",
-    "uptimeYear": "99.30%",
+    "uptimeMonth": "91.69%",
+    "uptimeYear": "99.31%",
     "time": 1340,
-    "timeDay": 1189,
+    "timeDay": 1194,
     "timeWeek": 1267,
     "timeMonth": 1307,
     "timeYear": 1336,
     "dailyMinutesDown": {
-      "2025-07-13": 372,
+      "2025-07-13": 373,
       "2025-07-12": 601,
       "2025-07-11": 533,
       "2025-07-10": 626,
@@ -24,7 +24,7 @@
       "2025-07-08": 308,
       "2025-07-07": 304,
       "2025-07-06": 370,
-      "2025-07-05": 140
+      "2025-07-05": 105
     }
   },
   {
@@ -44,7 +44,7 @@
     "timeMonth": 224,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-07-13": 694,
+      "2025-07-13": 709,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
@@ -428,7 +428,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-13": 694,
+      "2025-07-13": 709,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
@@ -800,14 +800,14 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "53.88%",
+    "uptimeDay": "54.46%",
     "uptimeWeek": "67.29%",
-    "uptimeMonth": "91.71%",
+    "uptimeMonth": "91.75%",
     "uptimeYear": "99.31%",
-    "time": 1160,
-    "timeDay": 1019,
+    "time": 1161,
+    "timeDay": 1022,
     "timeWeek": 1110,
     "timeMonth": 1129,
     "timeYear": 1175,
@@ -820,7 +820,7 @@
       "2025-07-08": 303,
       "2025-07-07": 285,
       "2025-07-06": 365,
-      "2025-07-05": 157
+      "2025-07-05": 139
     }
   }
 ]
