@@ -4,19 +4,19 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "51.31%",
-    "uptimeWeek": "67.28%",
-    "uptimeMonth": "91.62%",
-    "uptimeYear": "99.30%",
-    "time": 1344,
-    "timeDay": 1199,
-    "timeWeek": 1278,
+    "uptimeDay": "51.27%",
+    "uptimeWeek": "67.27%",
+    "uptimeMonth": "91.68%",
+    "uptimeYear": "99.31%",
+    "time": 1342,
+    "timeDay": 1204,
+    "timeWeek": 1276,
     "timeMonth": 1311,
     "timeYear": 1338,
     "dailyMinutesDown": {
-      "2025-07-13": 298,
+      "2025-07-13": 299,
       "2025-07-12": 601,
       "2025-07-11": 533,
       "2025-07-10": 626,
@@ -24,7 +24,7 @@
       "2025-07-08": 308,
       "2025-07-07": 304,
       "2025-07-06": 370,
-      "2025-07-05": 207
+      "2025-07-05": 184
     }
   },
   {
@@ -44,7 +44,7 @@
     "timeMonth": 224,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-07-13": 472,
+      "2025-07-13": 479,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
@@ -428,7 +428,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-13": 472,
+      "2025-07-13": 479,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
@@ -800,15 +800,15 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "51.81%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "51.80%",
     "uptimeWeek": "67.85%",
-    "uptimeMonth": "91.69%",
+    "uptimeMonth": "91.77%",
     "uptimeYear": "99.31%",
-    "time": 1151,
-    "timeDay": 1030,
-    "timeWeek": 1120,
+    "time": 1152,
+    "timeDay": 1034,
+    "timeWeek": 1119,
     "timeMonth": 1133,
     "timeYear": 1177,
     "dailyMinutesDown": {
@@ -820,7 +820,7 @@
       "2025-07-08": 303,
       "2025-07-07": 285,
       "2025-07-06": 365,
-      "2025-07-05": 240
+      "2025-07-05": 205
     }
   }
 ]
