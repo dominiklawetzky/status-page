@@ -4,26 +4,26 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "45.93%",
-    "uptimeWeek": "63.70%",
-    "uptimeMonth": "91.65%",
-    "uptimeYear": "99.30%",
+    "uptimeDay": "46.05%",
+    "uptimeWeek": "64.07%",
+    "uptimeMonth": "91.73%",
+    "uptimeYear": "99.31%",
     "time": 1337,
     "timeDay": 1188,
     "timeWeek": 1261,
     "timeMonth": 1299,
     "timeYear": 1332,
     "dailyMinutesDown": {
-      "2025-07-14": 281,
+      "2025-07-14": 282,
       "2025-07-13": 735,
       "2025-07-12": 601,
       "2025-07-11": 533,
       "2025-07-10": 626,
       "2025-07-09": 419,
       "2025-07-08": 308,
-      "2025-07-07": 154
+      "2025-07-07": 116
     }
   },
   {
@@ -43,7 +43,7 @@
     "timeMonth": 221,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2025-07-14": 400,
+      "2025-07-14": 414,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
@@ -427,7 +427,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-14": 400,
+      "2025-07-14": 414,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
@@ -799,13 +799,13 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "46.60%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "46.73%",
     "uptimeWeek": "64.32%",
-    "uptimeMonth": "91.74%",
-    "uptimeYear": "99.31%",
-    "time": 1110,
+    "uptimeMonth": "91.79%",
+    "uptimeYear": "99.32%",
+    "time": 1111,
     "timeDay": 1040,
     "timeWeek": 1104,
     "timeMonth": 1123,
@@ -818,7 +818,7 @@
       "2025-07-10": 619,
       "2025-07-09": 413,
       "2025-07-08": 303,
-      "2025-07-07": 158
+      "2025-07-07": 136
     }
   }
 ]
