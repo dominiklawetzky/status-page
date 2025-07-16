@@ -4,26 +4,26 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "94.10%",
-    "uptimeWeek": "64.65%",
-    "uptimeMonth": "91.62%",
+    "uptimeDay": "94.06%",
+    "uptimeWeek": "65.09%",
+    "uptimeMonth": "91.66%",
     "uptimeYear": "99.30%",
     "time": 1333,
-    "timeDay": 1299,
-    "timeWeek": 1284,
+    "timeDay": 1289,
+    "timeWeek": 1281,
     "timeMonth": 1314,
     "timeYear": 1339,
     "dailyMinutesDown": {
-      "2025-07-16": 61,
+      "2025-07-16": 62,
       "2025-07-15": 126,
       "2025-07-14": 795,
       "2025-07-13": 735,
       "2025-07-12": 601,
       "2025-07-11": 533,
       "2025-07-10": 626,
-      "2025-07-09": 193
+      "2025-07-09": 176
     }
   },
   {
@@ -43,7 +43,7 @@
     "timeMonth": 225,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-07-16": 1029,
+      "2025-07-16": 1226,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
@@ -416,7 +416,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/politikundwirtschaft.de.ico",
     "slug": "politik-und-wirtschaft",
     "status": "down",
-    "uptime": "18.98%",
+    "uptime": "18.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -427,7 +427,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-16": 1029,
+      "2025-07-16": 1226,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
@@ -799,15 +799,15 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "94.23%",
-    "uptimeWeek": "65.10%",
-    "uptimeMonth": "91.72%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "94.22%",
+    "uptimeWeek": "65.53%",
+    "uptimeMonth": "91.76%",
     "uptimeYear": "99.31%",
     "time": 1181,
-    "timeDay": 1145,
-    "timeWeek": 1115,
+    "timeDay": 1142,
+    "timeWeek": 1114,
     "timeMonth": 1135,
     "timeYear": 1174,
     "dailyMinutesDown": {
@@ -818,7 +818,7 @@
       "2025-07-12": 593,
       "2025-07-11": 527,
       "2025-07-10": 619,
-      "2025-07-09": 189
+      "2025-07-09": 172
     }
   }
 ]
