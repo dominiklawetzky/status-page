@@ -4,19 +4,19 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "88.92%",
-    "uptimeWeek": "70.85%",
-    "uptimeMonth": "91.98%",
-    "uptimeYear": "99.33%",
+    "uptimeDay": "88.88%",
+    "uptimeWeek": "70.94%",
+    "uptimeMonth": "92.05%",
+    "uptimeYear": "99.34%",
     "time": 1341,
     "timeDay": 1367,
-    "timeWeek": 1298,
+    "timeWeek": 1297,
     "timeMonth": 1317,
     "timeYear": 1339,
     "dailyMinutesDown": {
-      "2025-07-18": 108,
+      "2025-07-18": 109,
       "2025-07-17": 138,
       "2025-07-16": 61,
       "2025-07-15": 126,
@@ -24,7 +24,7 @@
       "2025-07-13": 735,
       "2025-07-12": 601,
       "2025-07-11": 533,
-      "2025-07-10": 411
+      "2025-07-10": 380
     }
   },
   {
@@ -44,7 +44,7 @@
     "timeMonth": 225,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-07-18": 455,
+      "2025-07-18": 473,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
@@ -428,7 +428,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-18": 455,
+      "2025-07-18": 473,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
@@ -800,15 +800,15 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "90.12%",
-    "uptimeWeek": "71.37%",
-    "uptimeMonth": "91.64%",
-    "uptimeYear": "99.30%",
-    "time": 1153,
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "90.11%",
+    "uptimeWeek": "71.46%",
+    "uptimeMonth": "92.12%",
+    "uptimeYear": "99.34%",
+    "time": 1154,
     "timeDay": 1187,
-    "timeWeek": 1126,
+    "timeWeek": 1124,
     "timeMonth": 1139,
     "timeYear": 1174,
     "dailyMinutesDown": {
@@ -820,7 +820,7 @@
       "2025-07-13": 728,
       "2025-07-12": 593,
       "2025-07-11": 527,
-      "2025-07-10": 619
+      "2025-07-10": 405
     }
   }
 ]
