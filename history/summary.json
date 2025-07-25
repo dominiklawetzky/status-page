@@ -4,19 +4,19 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "92.14%",
+    "uptimeDay": "92.17%",
     "uptimeWeek": "93.37%",
-    "uptimeMonth": "92.38%",
-    "uptimeYear": "99.36%",
+    "uptimeMonth": "92.41%",
+    "uptimeYear": "99.37%",
     "time": 1335,
-    "timeDay": 1229,
-    "timeWeek": 1282,
+    "timeDay": 1213,
+    "timeWeek": 1278,
     "timeMonth": 1308,
     "timeYear": 1330,
     "dailyMinutesDown": {
-      "2025-07-25": 57,
+      "2025-07-25": 58,
       "2025-07-24": 74,
       "2025-07-23": 108,
       "2025-07-22": 100,
@@ -30,7 +30,7 @@
       "2025-07-14": 795,
       "2025-07-13": 735,
       "2025-07-12": 601,
-      "2025-07-11": 139
+      "2025-07-11": 123
     }
   },
   {
@@ -50,7 +50,7 @@
     "timeMonth": 220,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2025-07-25": 283,
+      "2025-07-25": 353,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
@@ -434,7 +434,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-25": 283,
+      "2025-07-25": 353,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
@@ -806,14 +806,14 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "92.28%",
+    "uptimeDay": "92.33%",
     "uptimeWeek": "92.98%",
-    "uptimeMonth": "92.40%",
+    "uptimeMonth": "92.43%",
     "uptimeYear": "99.37%",
     "time": 1165,
-    "timeDay": 1051,
+    "timeDay": 1025,
     "timeWeek": 1113,
     "timeMonth": 1133,
     "timeYear": 1165,
@@ -832,7 +832,7 @@
       "2025-07-14": 786,
       "2025-07-13": 728,
       "2025-07-12": 593,
-      "2025-07-11": 138
+      "2025-07-11": 123
     }
   }
 ]
