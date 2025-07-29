@@ -4,19 +4,20 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "89.81%",
-    "uptimeWeek": "94.60%",
-    "uptimeMonth": "92.28%",
-    "uptimeYear": "99.36%",
-    "time": 1325,
-    "timeDay": 1331,
-    "timeWeek": 1264,
-    "timeMonth": 1304,
-    "timeYear": 1327,
+    "uptimeDay": "87.68%",
+    "uptimeWeek": "94.29%",
+    "uptimeMonth": "92.21%",
+    "uptimeYear": "99.35%",
+    "time": 1326,
+    "timeDay": 1343,
+    "timeWeek": 1267,
+    "timeMonth": 1306,
+    "timeYear": 1328,
     "dailyMinutesDown": {
-      "2025-07-28": 147,
+      "2025-07-29": 28,
+      "2025-07-28": 149,
       "2025-07-27": 44,
       "2025-07-26": 16,
       "2025-07-25": 57,
@@ -52,7 +53,8 @@
     "timeMonth": 225,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-07-28": 1438,
+      "2025-07-29": 29,
+      "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
@@ -415,8 +417,7 @@
       "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
-      "2024-07-30": 1440,
-      "2024-07-29": 1440
+      "2024-07-30": 1440
     }
   },
   {
@@ -436,7 +437,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-28": 1438,
+      "2025-07-29": 29,
+      "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
@@ -799,8 +801,7 @@
       "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
-      "2024-07-30": 1440,
-      "2024-07-29": 1440
+      "2024-07-30": 1440
     }
   },
   {
@@ -808,19 +809,20 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "89.39%",
-    "uptimeWeek": "94.76%",
-    "uptimeMonth": "92.39%",
-    "uptimeYear": "99.37%",
+    "uptimeDay": "87.85%",
+    "uptimeWeek": "94.54%",
+    "uptimeMonth": "92.23%",
+    "uptimeYear": "99.35%",
     "time": 1169,
-    "timeDay": 1125,
-    "timeWeek": 1103,
-    "timeMonth": 1129,
+    "timeDay": 1151,
+    "timeWeek": 1106,
+    "timeMonth": 1130,
     "timeYear": 1162,
     "dailyMinutesDown": {
-      "2025-07-28": 153,
+      "2025-07-29": 29,
+      "2025-07-28": 147,
       "2025-07-27": 43,
       "2025-07-26": 16,
       "2025-07-25": 55,
@@ -836,7 +838,7 @@
       "2025-07-15": 125,
       "2025-07-14": 786,
       "2025-07-13": 728,
-      "2025-07-12": 521
+      "2025-07-12": 567
     }
   }
 ]
