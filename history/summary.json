@@ -6,17 +6,17 @@
     "slug": "dominik-lawetzkys-website",
     "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "94.10%",
-    "uptimeWeek": "95.19%",
+    "uptimeDay": "92.87%",
+    "uptimeWeek": "95.02%",
     "uptimeMonth": "92.38%",
     "uptimeYear": "99.36%",
     "time": 1333,
-    "timeDay": 1378,
+    "timeDay": 1358,
     "timeWeek": 1281,
-    "timeMonth": 1305,
+    "timeMonth": 1304,
     "timeYear": 1328,
     "dailyMinutesDown": {
-      "2025-07-30": 85,
+      "2025-07-30": 103,
       "2025-07-29": 44,
       "2025-07-28": 149,
       "2025-07-27": 44,
@@ -34,7 +34,7 @@
       "2025-07-15": 126,
       "2025-07-14": 795,
       "2025-07-13": 735,
-      "2025-07-12": 403
+      "2025-07-12": 384
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 224,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-07-30": 811,
+      "2025-07-30": 862,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
@@ -427,7 +427,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/politikundwirtschaft.de.ico",
     "slug": "politik-und-wirtschaft",
     "status": "down",
-    "uptime": "18.81%",
+    "uptime": "18.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -438,7 +438,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-30": 811,
+      "2025-07-30": 862,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
@@ -812,17 +812,17 @@
     "slug": "anna-luehrmanns-website",
     "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "94.23%",
-    "uptimeWeek": "95.28%",
+    "uptimeDay": "93.03%",
+    "uptimeWeek": "95.11%",
     "uptimeMonth": "92.40%",
     "uptimeYear": "99.37%",
-    "time": 1138,
-    "timeDay": 1167,
+    "time": 1140,
+    "timeDay": 1149,
     "timeWeek": 1113,
     "timeMonth": 1130,
     "timeYear": 1162,
     "dailyMinutesDown": {
-      "2025-07-30": 83,
+      "2025-07-30": 100,
       "2025-07-29": 44,
       "2025-07-28": 147,
       "2025-07-27": 43,
@@ -840,7 +840,7 @@
       "2025-07-15": 125,
       "2025-07-14": 786,
       "2025-07-13": 728,
-      "2025-07-12": 396
+      "2025-07-12": 378
     }
   }
 ]
