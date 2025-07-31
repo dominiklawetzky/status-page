@@ -4,19 +4,19 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "90.93%",
-    "uptimeWeek": "94.90%",
-    "uptimeMonth": "92.39%",
-    "uptimeYear": "99.37%",
+    "uptimeDay": "91.54%",
+    "uptimeWeek": "94.99%",
+    "uptimeMonth": "92.34%",
+    "uptimeYear": "99.36%",
     "time": 1331,
-    "timeDay": 1341,
-    "timeWeek": 1293,
-    "timeMonth": 1297,
+    "timeDay": 1330,
+    "timeWeek": 1291,
+    "timeMonth": 1305,
     "timeYear": 1328,
     "dailyMinutesDown": {
-      "2025-07-30": 131,
+      "2025-07-30": 122,
       "2025-07-29": 44,
       "2025-07-28": 149,
       "2025-07-27": 44,
@@ -34,7 +34,7 @@
       "2025-07-15": 126,
       "2025-07-14": 795,
       "2025-07-13": 735,
-      "2025-07-12": 353
+      "2025-07-12": 384
     }
   },
   {
@@ -46,15 +46,16 @@
     "uptime": "53.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 203,
     "timeDay": 344,
     "timeWeek": 250,
-    "timeMonth": 224,
+    "timeMonth": 228,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-07-30": 1419,
+      "2025-07-31": 36,
+      "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
@@ -417,8 +418,7 @@
       "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
-      "2024-08-01": 1440,
-      "2024-07-31": 1440
+      "2024-08-01": 1440
     }
   },
   {
@@ -430,7 +430,7 @@
     "uptime": "18.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -438,7 +438,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-30": 1419,
+      "2025-07-31": 36,
+      "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
@@ -801,8 +802,7 @@
       "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
-      "2024-08-01": 1440,
-      "2024-07-31": 1440
+      "2024-08-01": 1440
     }
   },
   {
@@ -812,17 +812,17 @@
     "slug": "anna-luehrmanns-website",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "91.13%",
-    "uptimeWeek": "94.99%",
-    "uptimeMonth": "92.41%",
-    "uptimeYear": "99.37%",
+    "uptimeDay": "91.70%",
+    "uptimeWeek": "95.07%",
+    "uptimeMonth": "92.36%",
+    "uptimeYear": "99.36%",
     "time": 1154,
     "timeDay": 1169,
     "timeWeek": 1122,
     "timeMonth": 1131,
     "timeYear": 1162,
     "dailyMinutesDown": {
-      "2025-07-30": 127,
+      "2025-07-30": 119,
       "2025-07-29": 44,
       "2025-07-28": 147,
       "2025-07-27": 43,
@@ -840,7 +840,7 @@
       "2025-07-15": 125,
       "2025-07-14": 786,
       "2025-07-13": 728,
-      "2025-07-12": 348
+      "2025-07-12": 378
     }
   }
 ]
