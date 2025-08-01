@@ -4,11 +4,11 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "88.20%",
-    "uptimeWeek": "93.91%",
-    "uptimeMonth": "92.52%",
+    "uptimeDay": "88.16%",
+    "uptimeWeek": "93.90%",
+    "uptimeMonth": "92.58%",
     "uptimeYear": "99.38%",
     "time": 1327,
     "timeDay": 1486,
@@ -16,7 +16,7 @@
     "timeMonth": 1300,
     "timeYear": 1330,
     "dailyMinutesDown": {
-      "2025-08-01": 124,
+      "2025-08-01": 125,
       "2025-07-31": 116,
       "2025-07-30": 122,
       "2025-07-29": 44,
@@ -36,7 +36,7 @@
       "2025-07-15": 126,
       "2025-07-14": 795,
       "2025-07-13": 735,
-      "2025-07-12": 63
+      "2025-07-12": 37
     }
   },
   {
@@ -45,7 +45,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "down",
-    "uptime": "53.63%",
+    "uptime": "53.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -56,7 +56,7 @@
     "timeMonth": 227,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2025-08-01": 771,
+      "2025-08-01": 826,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -440,7 +440,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-01": 771,
+      "2025-08-01": 826,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -812,11 +812,11 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "88.37%",
-    "uptimeWeek": "94.01%",
-    "uptimeMonth": "92.54%",
+    "uptimeDay": "88.35%",
+    "uptimeWeek": "94.00%",
+    "uptimeMonth": "92.60%",
     "uptimeYear": "99.38%",
     "time": 1171,
     "timeDay": 1337,
@@ -844,7 +844,7 @@
       "2025-07-15": 125,
       "2025-07-14": 786,
       "2025-07-13": 728,
-      "2025-07-12": 61
+      "2025-07-12": 35
     }
   }
 ]
