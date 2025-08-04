@@ -4,19 +4,19 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "90.71%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "90.67%",
     "uptimeWeek": "92.86%",
-    "uptimeMonth": "93.13%",
+    "uptimeMonth": "93.16%",
     "uptimeYear": "99.43%",
     "time": 1333,
     "timeDay": 1556,
     "timeWeek": 1405,
-    "timeMonth": 1312,
+    "timeMonth": 1311,
     "timeYear": 1337,
     "dailyMinutesDown": {
-      "2025-08-04": 112,
+      "2025-08-04": 113,
       "2025-08-03": 123,
       "2025-08-02": 34,
       "2025-08-01": 124,
@@ -38,7 +38,7 @@
       "2025-07-16": 61,
       "2025-07-15": 126,
       "2025-07-14": 795,
-      "2025-07-13": 268
+      "2025-07-13": 251
     }
   },
   {
@@ -58,7 +58,7 @@
     "timeMonth": 219,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2025-08-04": 830,
+      "2025-08-04": 842,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
@@ -442,7 +442,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-04": 830,
+      "2025-08-04": 842,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
@@ -814,12 +814,12 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "90.88%",
-    "uptimeWeek": "93.15%",
-    "uptimeMonth": "93.10%",
-    "uptimeYear": "99.42%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "90.86%",
+    "uptimeWeek": "93.14%",
+    "uptimeMonth": "93.18%",
+    "uptimeYear": "99.43%",
     "time": 1178,
     "timeDay": 1384,
     "timeWeek": 1255,
@@ -848,7 +848,7 @@
       "2025-07-16": 60,
       "2025-07-15": 125,
       "2025-07-14": 786,
-      "2025-07-13": 297
+      "2025-07-13": 262
     }
   }
 ]
