@@ -4,19 +4,19 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "95.99%",
+    "uptimeDay": "95.95%",
     "uptimeWeek": "93.42%",
-    "uptimeMonth": "93.22%",
-    "uptimeYear": "99.43%",
+    "uptimeMonth": "93.32%",
+    "uptimeYear": "99.44%",
     "time": 1341,
     "timeDay": 1463,
     "timeWeek": 1441,
-    "timeMonth": 1316,
+    "timeMonth": 1317,
     "timeYear": 1340,
     "dailyMinutesDown": {
-      "2025-08-06": 16,
+      "2025-08-06": 17,
       "2025-08-05": 73,
       "2025-08-04": 141,
       "2025-08-03": 123,
@@ -40,7 +40,7 @@
       "2025-07-16": 61,
       "2025-07-15": 126,
       "2025-07-14": 795,
-      "2025-07-13": 109
+      "2025-07-13": 63
     }
   },
   {
@@ -60,7 +60,7 @@
     "timeMonth": 218,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2025-08-06": 736,
+      "2025-08-06": 775,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
@@ -444,7 +444,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-06": 736,
+      "2025-08-06": 775,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
@@ -816,13 +816,13 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "96.09%",
-    "uptimeWeek": "93.70%",
-    "uptimeMonth": "93.15%",
-    "uptimeYear": "99.43%",
-    "time": 1158,
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "96.08%",
+    "uptimeWeek": "93.69%",
+    "uptimeMonth": "93.27%",
+    "uptimeYear": "99.44%",
+    "time": 1159,
     "timeDay": 1288,
     "timeWeek": 1291,
     "timeMonth": 1154,
@@ -852,7 +852,7 @@
       "2025-07-16": 60,
       "2025-07-15": 125,
       "2025-07-14": 786,
-      "2025-07-13": 160
+      "2025-07-13": 106
     }
   }
 ]
