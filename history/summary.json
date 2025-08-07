@@ -4,19 +4,19 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "92.42%",
-    "uptimeWeek": "92.89%",
-    "uptimeMonth": "93.47%",
-    "uptimeYear": "99.46%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "92.38%",
+    "uptimeWeek": "93.17%",
+    "uptimeMonth": "93.70%",
+    "uptimeYear": "99.47%",
     "time": 1337,
-    "timeDay": 1501,
-    "timeWeek": 1459,
+    "timeDay": 1512,
+    "timeWeek": 1460,
     "timeMonth": 1323,
     "timeYear": 1342,
     "dailyMinutesDown": {
-      "2025-08-07": 109,
+      "2025-08-07": 110,
       "2025-08-06": 85,
       "2025-08-05": 73,
       "2025-08-04": 141,
@@ -40,7 +40,7 @@
       "2025-07-17": 138,
       "2025-07-16": 61,
       "2025-07-15": 126,
-      "2025-07-14": 612
+      "2025-07-14": 514
     }
   },
   {
@@ -60,7 +60,7 @@
     "timeMonth": 219,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2025-08-07": 1124,
+      "2025-08-07": 1177,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
@@ -444,7 +444,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-07": 1124,
+      "2025-08-07": 1177,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
@@ -816,15 +816,15 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "93.58%",
-    "uptimeWeek": "93.31%",
-    "uptimeMonth": "93.30%",
-    "uptimeYear": "99.44%",
-    "time": 1182,
-    "timeDay": 1378,
-    "timeWeek": 1317,
+    "uptimeDay": "93.56%",
+    "uptimeWeek": "93.60%",
+    "uptimeMonth": "93.40%",
+    "uptimeYear": "99.45%",
+    "time": 1183,
+    "timeDay": 1385,
+    "timeWeek": 1319,
     "timeMonth": 1162,
     "timeYear": 1179,
     "dailyMinutesDown": {
@@ -852,7 +852,7 @@
       "2025-07-17": 121,
       "2025-07-16": 60,
       "2025-07-15": 125,
-      "2025-07-14": 720
+      "2025-07-14": 675
     }
   }
 ]
