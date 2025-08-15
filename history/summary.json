@@ -4,18 +4,19 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "97.74%",
-    "uptimeWeek": "93.96%",
-    "uptimeMonth": "94.07%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "94.28%",
+    "uptimeMonth": "94.11%",
     "uptimeYear": "99.51%",
     "time": 1359,
     "timeDay": 1588,
-    "timeWeek": 1495,
+    "timeWeek": 1493,
     "timeMonth": 1391,
     "timeYear": 1359,
     "dailyMinutesDown": {
+      "2025-08-15": 1,
       "2025-08-14": 33,
       "2025-08-13": 95,
       "2025-08-12": 198,
@@ -44,7 +45,7 @@
       "2025-07-20": 130,
       "2025-07-19": 50,
       "2025-07-18": 148,
-      "2025-07-17": 68
+      "2025-07-17": 51
     }
   },
   {
@@ -53,7 +54,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "down",
-    "uptime": "53.16%",
+    "uptime": "53.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -64,7 +65,7 @@
     "timeMonth": 245,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2025-08-15": 35,
+      "2025-08-15": 237,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
@@ -448,7 +449,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-15": 35,
+      "2025-08-15": 237,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
@@ -820,18 +821,19 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "97.77%",
-    "uptimeWeek": "94.06%",
-    "uptimeMonth": "94.00%",
-    "uptimeYear": "99.50%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "94.38%",
+    "uptimeMonth": "94.09%",
+    "uptimeYear": "99.51%",
     "time": 1176,
     "timeDay": 1538,
-    "timeWeek": 1359,
+    "timeWeek": 1358,
     "timeMonth": 1237,
     "timeYear": 1199,
     "dailyMinutesDown": {
+      "2025-08-15": 0,
       "2025-08-14": 32,
       "2025-08-13": 92,
       "2025-08-12": 196,
@@ -860,7 +862,7 @@
       "2025-07-20": 129,
       "2025-07-19": 49,
       "2025-07-18": 145,
-      "2025-07-17": 121
+      "2025-07-17": 83
     }
   }
 ]
