@@ -11,8 +11,8 @@
     "uptimeMonth": "98.18%",
     "uptimeYear": "99.50%",
     "time": 1360,
-    "timeDay": 1594,
-    "timeWeek": 1521,
+    "timeDay": 1693,
+    "timeWeek": 1605,
     "timeMonth": 1493,
     "timeYear": 1363,
     "dailyMinutesDown": {
@@ -55,18 +55,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "down",
-    "uptime": "52.39%",
+    "uptime": "52.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 211,
-    "timeDay": 294,
-    "timeWeek": 229,
-    "timeMonth": 314,
+    "timeDay": 311,
+    "timeWeek": 249,
+    "timeMonth": 318,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2025-09-06": 1045,
+      "2025-09-07": 34,
+      "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -429,8 +430,7 @@
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
-      "2024-09-08": 1440,
-      "2024-09-07": 1440
+      "2024-09-08": 1440
     }
   },
   {
@@ -450,7 +450,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-06": 1045,
+      "2025-09-07": 34,
+      "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -813,8 +814,7 @@
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
-      "2024-09-08": 1440,
-      "2024-09-07": 1440
+      "2024-09-08": 1440
     }
   },
   {
@@ -824,17 +824,16 @@
     "slug": "anna-luehrmanns-website",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "98.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.26%",
     "uptimeYear": "99.50%",
-    "time": 1206,
-    "timeDay": 2880,
-    "timeWeek": 1908,
-    "timeMonth": 1397,
+    "time": 1207,
+    "timeDay": 2951,
+    "timeWeek": 1962,
+    "timeMonth": 1399,
     "timeYear": 1206,
     "dailyMinutesDown": {
-      "2025-09-06": 8,
       "2025-08-26": 57,
       "2025-08-15": 16,
       "2025-08-14": 32,
@@ -865,7 +864,7 @@
       "2025-07-20": 129,
       "2025-07-19": 49,
       "2025-07-18": 145,
-      "2025-07-17": 36
+      "2025-07-17": 52
     }
   }
 ]
