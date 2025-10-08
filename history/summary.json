@@ -6,17 +6,16 @@
     "slug": "dominik-lawetzkys-website",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
     "time": 1360,
-    "timeDay": 1136,
-    "timeWeek": 1333,
-    "timeMonth": 1469,
+    "timeDay": 1184,
+    "timeWeek": 1273,
+    "timeMonth": 1468,
     "timeYear": 1360,
     "dailyMinutesDown": {
-      "2025-10-07": 8,
       "2025-08-26": 63,
       "2025-08-15": 16,
       "2025-08-14": 33,
@@ -47,7 +46,7 @@
       "2025-07-20": 130,
       "2025-07-19": 50,
       "2025-07-18": 148,
-      "2025-07-17": 16
+      "2025-07-17": 36
     }
   },
   {
@@ -56,18 +55,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "down",
-    "uptime": "51.39%",
+    "uptime": "51.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 216,
-    "timeDay": 167,
-    "timeWeek": 295,
-    "timeMonth": 258,
+    "timeDay": 179,
+    "timeWeek": 278,
+    "timeMonth": 256,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-10-07": 685,
+      "2025-10-08": 31,
+      "2025-10-07": 1440,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
@@ -430,8 +430,7 @@
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
-      "2024-10-09": 1440,
-      "2024-10-08": 1440
+      "2024-10-09": 1440
     }
   },
   {
@@ -440,7 +439,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/politikundwirtschaft.de.ico",
     "slug": "politik-und-wirtschaft",
     "status": "down",
-    "uptime": "18.00%",
+    "uptime": "17.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -451,7 +450,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-07": 685,
+      "2025-10-08": 31,
+      "2025-10-07": 1440,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
@@ -814,8 +814,7 @@
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
-      "2024-10-09": 1440,
-      "2024-10-08": 1440
+      "2024-10-09": 1440
     }
   },
   {
@@ -829,10 +828,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
-    "time": 1213,
-    "timeDay": 1141,
-    "timeWeek": 1260,
-    "timeMonth": 1412,
+    "time": 1214,
+    "timeDay": 1247,
+    "timeWeek": 1230,
+    "timeMonth": 1413,
     "timeYear": 1212,
     "dailyMinutesDown": {
       "2025-08-26": 57,
