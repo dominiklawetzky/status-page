@@ -4,18 +4,19 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
-    "time": 1362,
-    "timeDay": 1574,
-    "timeWeek": 1439,
-    "timeMonth": 1361,
-    "timeYear": 1363,
+    "time": 1364,
+    "timeDay": 2385,
+    "timeWeek": 1658,
+    "timeMonth": 1416,
+    "timeYear": 1365,
     "dailyMinutesDown": {
+      "2025-11-07": 0,
       "2025-08-26": 63,
       "2025-08-15": 16,
       "2025-08-14": 33,
@@ -46,7 +47,7 @@
       "2025-07-20": 130,
       "2025-07-19": 50,
       "2025-07-18": 148,
-      "2025-07-17": 36
+      "2025-07-17": 16
     }
   },
   {
@@ -55,7 +56,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "down",
-    "uptime": "50.43%",
+    "uptime": "50.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -66,7 +67,7 @@
     "timeMonth": 213,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2025-11-07": 33,
+      "2025-11-07": 424,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
@@ -450,7 +451,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-07": 33,
+      "2025-11-07": 424,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
