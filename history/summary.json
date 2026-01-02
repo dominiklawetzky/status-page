@@ -4,10 +4,10 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.50%",
     "time": 1379,
@@ -16,6 +16,7 @@
     "timeMonth": 1595,
     "timeYear": 1383,
     "dailyMinutesDown": {
+      "2026-01-02": 1,
       "2025-12-11": 86,
       "2025-12-08": 15,
       "2025-08-26": 63,
@@ -47,7 +48,7 @@
       "2025-07-21": 77,
       "2025-07-20": 130,
       "2025-07-19": 50,
-      "2025-07-18": 73
+      "2025-07-18": 40
     }
   },
   {
@@ -67,7 +68,7 @@
     "timeMonth": 228,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2026-01-02": 36,
+      "2026-01-02": 108,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
@@ -451,7 +452,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-02": 36,
+      "2026-01-02": 108,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
@@ -823,18 +824,19 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.50%",
     "time": 1238,
     "timeDay": 1362,
     "timeWeek": 1458,
     "timeMonth": 1550,
     "timeYear": 1241,
     "dailyMinutesDown": {
+      "2026-01-02": 0,
       "2025-12-11": 85,
       "2025-08-26": 57,
       "2025-08-15": 16,
@@ -865,7 +867,7 @@
       "2025-07-21": 142,
       "2025-07-20": 129,
       "2025-07-19": 49,
-      "2025-07-18": 145
+      "2025-07-18": 121
     }
   }
 ]
