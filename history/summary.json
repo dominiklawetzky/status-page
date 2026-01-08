@@ -4,18 +4,19 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.08%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.07%",
     "uptimeMonth": "99.56%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.51%",
     "time": 1382,
     "timeDay": 1253,
     "timeWeek": 1451,
     "timeMonth": 1569,
     "timeYear": 1384,
     "dailyMinutesDown": {
+      "2026-01-08": 1,
       "2026-01-05": 17,
       "2026-01-02": 76,
       "2025-12-11": 86,
@@ -47,7 +48,7 @@
       "2025-07-23": 108,
       "2025-07-22": 100,
       "2025-07-21": 77,
-      "2025-07-20": 130
+      "2025-07-20": 108
     }
   },
   {
@@ -56,7 +57,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "down",
-    "uptime": "48.59%",
+    "uptime": "48.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -67,7 +68,7 @@
     "timeMonth": 222,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2026-01-08": 36,
+      "2026-01-08": 339,
       "2026-01-07": 1440,
       "2026-01-06": 1440,
       "2026-01-05": 1440,
@@ -440,7 +441,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/politikundwirtschaft.de.ico",
     "slug": "politik-und-wirtschaft",
     "status": "down",
-    "uptime": "17.02%",
+    "uptime": "17.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -451,7 +452,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-08": 37,
+      "2026-01-08": 339,
       "2026-01-07": 1440,
       "2026-01-06": 1440,
       "2026-01-05": 1440,
@@ -823,9 +824,9 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.24%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.50%",
@@ -835,6 +836,7 @@
     "timeMonth": 1505,
     "timeYear": 1243,
     "dailyMinutesDown": {
+      "2026-01-08": 0,
       "2026-01-05": 17,
       "2026-01-02": 60,
       "2025-12-11": 85,
@@ -867,7 +869,7 @@
       "2025-07-21": 142,
       "2025-07-20": 129,
       "2025-07-19": 49,
-      "2025-07-18": 39
+      "2025-07-18": 20
     }
   }
 ]
