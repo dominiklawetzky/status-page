@@ -11,10 +11,10 @@
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.51%",
     "time": 1382,
-    "timeDay": 1501,
-    "timeWeek": 1409,
+    "timeDay": 1570,
+    "timeWeek": 1437,
     "timeMonth": 1495,
-    "timeYear": 1384,
+    "timeYear": 1385,
     "dailyMinutesDown": {
       "2026-01-10": 16,
       "2026-01-05": 17,
@@ -57,18 +57,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "down",
-    "uptime": "48.51%",
+    "uptime": "48.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 222,
-    "timeDay": 144,
-    "timeWeek": 191,
-    "timeMonth": 222,
+    "timeDay": 293,
+    "timeWeek": 207,
+    "timeMonth": 226,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2026-01-10": 787,
+      "2026-01-11": 40,
+      "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -431,8 +432,7 @@
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
-      "2025-01-12": 1440,
-      "2025-01-11": 1440
+      "2025-01-12": 1440
     }
   },
   {
@@ -452,7 +452,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-10": 787,
+      "2026-01-11": 40,
+      "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -815,8 +816,7 @@
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
-      "2025-01-12": 1440,
-      "2025-01-11": 1440
+      "2025-01-12": 1440
     }
   },
   {
@@ -830,11 +830,11 @@
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.50%",
-    "time": 1241,
-    "timeDay": 1497,
-    "timeWeek": 1336,
-    "timeMonth": 1473,
-    "timeYear": 1243,
+    "time": 1242,
+    "timeDay": 1643,
+    "timeWeek": 1371,
+    "timeMonth": 1475,
+    "timeYear": 1244,
     "dailyMinutesDown": {
       "2026-01-10": 16,
       "2026-01-05": 17,
