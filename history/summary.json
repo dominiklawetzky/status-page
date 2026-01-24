@@ -11,10 +11,10 @@
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.51%",
     "time": 1379,
-    "timeDay": 1191,
-    "timeWeek": 1396,
-    "timeMonth": 1460,
-    "timeYear": 1387,
+    "timeDay": 1410,
+    "timeWeek": 1418,
+    "timeMonth": 1454,
+    "timeYear": 1388,
     "dailyMinutesDown": {
       "2026-01-23": 19,
       "2026-01-21": 20,
@@ -61,18 +61,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "down",
-    "uptime": "48.15%",
+    "uptime": "48.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 222,
-    "timeDay": 197,
-    "timeWeek": 229,
-    "timeMonth": 217,
-    "timeYear": 232,
+    "time": 223,
+    "timeDay": 250,
+    "timeWeek": 240,
+    "timeMonth": 219,
+    "timeYear": 233,
     "dailyMinutesDown": {
-      "2026-01-23": 811,
+      "2026-01-24": 36,
+      "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
@@ -435,8 +436,7 @@
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
-      "2025-01-25": 1440,
-      "2025-01-24": 1440
+      "2025-01-25": 1440
     }
   },
   {
@@ -456,7 +456,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-23": 811,
+      "2026-01-24": 36,
+      "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
@@ -819,8 +820,7 @@
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
-      "2025-01-25": 1440,
-      "2025-01-24": 1440
+      "2025-01-25": 1440
     }
   },
   {
@@ -835,10 +835,10 @@
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.51%",
     "time": 1244,
-    "timeDay": 1263,
-    "timeWeek": 1402,
-    "timeMonth": 1418,
-    "timeYear": 1249,
+    "timeDay": 1378,
+    "timeWeek": 1416,
+    "timeMonth": 1417,
+    "timeYear": 1250,
     "dailyMinutesDown": {
       "2026-01-23": 18,
       "2026-01-21": 20,
