@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "98.25%",
-    "uptimeWeek": "99.36%",
+    "uptimeWeek": "99.56%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.51%",
     "time": 1381,
-    "timeDay": 1353,
-    "timeWeek": 1426,
-    "timeMonth": 1458,
+    "timeDay": 1413,
+    "timeWeek": 1404,
+    "timeMonth": 1453,
     "timeYear": 1389,
     "dailyMinutesDown": {
       "2026-01-28": 25,
@@ -61,18 +61,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "down",
-    "uptime": "48.01%",
+    "uptime": "47.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 223,
-    "timeDay": 240,
-    "timeWeek": 224,
-    "timeMonth": 213,
+    "timeDay": 273,
+    "timeWeek": 222,
+    "timeMonth": 211,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2026-01-28": 804,
+      "2026-01-29": 42,
+      "2026-01-28": 1440,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
@@ -435,8 +436,7 @@
       "2025-02-02": 1440,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
-      "2025-01-30": 1440,
-      "2025-01-29": 1440
+      "2025-01-30": 1440
     }
   },
   {
@@ -456,7 +456,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-28": 805,
+      "2026-01-29": 42,
+      "2026-01-28": 1440,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
@@ -819,8 +820,7 @@
       "2025-02-02": 1440,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
-      "2025-01-30": 1440,
-      "2025-01-29": 1440
+      "2025-01-30": 1440
     }
   },
   {
@@ -831,14 +831,14 @@
     "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "98.28%",
-    "uptimeWeek": "99.37%",
+    "uptimeWeek": "99.57%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.51%",
     "time": 1247,
-    "timeDay": 1246,
-    "timeWeek": 1394,
-    "timeMonth": 1417,
-    "timeYear": 1252,
+    "timeDay": 1374,
+    "timeWeek": 1370,
+    "timeMonth": 1413,
+    "timeYear": 1251,
     "dailyMinutesDown": {
       "2026-01-28": 25,
       "2026-01-23": 18,
