@@ -8,13 +8,13 @@
     "uptime": "99.90%",
     "uptimeDay": "97.23%",
     "uptimeWeek": "98.71%",
-    "uptimeMonth": "99.41%",
+    "uptimeMonth": "99.45%",
     "uptimeYear": "99.51%",
     "time": 1384,
-    "timeDay": 1456,
-    "timeWeek": 1454,
-    "timeMonth": 1444,
-    "timeYear": 1389,
+    "timeDay": 1464,
+    "timeWeek": 1451,
+    "timeMonth": 1440,
+    "timeYear": 1388,
     "dailyMinutesDown": {
       "2026-02-02": 39,
       "2026-02-01": 24,
@@ -63,18 +63,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "down",
-    "uptime": "47.86%",
+    "uptime": "47.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 223,
-    "timeDay": 184,
-    "timeWeek": 216,
-    "timeMonth": 209,
-    "timeYear": 233,
+    "timeDay": 254,
+    "timeWeek": 220,
+    "timeMonth": 211,
+    "timeYear": 232,
     "dailyMinutesDown": {
-      "2026-02-02": 1084,
+      "2026-02-03": 44,
+      "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
@@ -437,8 +438,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
-      "2025-02-04": 1440,
-      "2025-02-03": 1440
+      "2025-02-04": 1440
     }
   },
   {
@@ -458,7 +458,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-02": 1084,
+      "2026-02-03": 44,
+      "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
@@ -821,8 +822,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
-      "2025-02-04": 1440,
-      "2025-02-03": 1440
+      "2025-02-04": 1440
     }
   },
   {
@@ -832,17 +832,17 @@
     "slug": "anna-luehrmanns-website",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "97.36%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "99.46%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "99.49%",
     "uptimeYear": "99.50%",
     "time": 1246,
-    "timeDay": 1461,
-    "timeWeek": 1354,
-    "timeMonth": 1384,
-    "timeYear": 1252,
+    "timeDay": 1465,
+    "timeWeek": 1349,
+    "timeMonth": 1380,
+    "timeYear": 1251,
     "dailyMinutesDown": {
-      "2026-02-02": 38,
+      "2026-02-02": 24,
       "2026-02-01": 23,
       "2026-01-30": 41,
       "2026-01-28": 25,
@@ -880,7 +880,7 @@
       "2025-07-24": 72,
       "2025-07-23": 90,
       "2025-07-22": 98,
-      "2025-07-21": 125
+      "2025-07-21": 142
     }
   }
 ]
