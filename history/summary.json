@@ -4,18 +4,19 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "98.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "99.52%",
     "time": 1391,
     "timeDay": 1661,
-    "timeWeek": 1524,
-    "timeMonth": 1586,
+    "timeWeek": 1517,
+    "timeMonth": 1590,
     "timeYear": 1398,
     "dailyMinutesDown": {
+      "2026-03-02": 1,
       "2026-02-28": 18,
       "2026-02-26": 26,
       "2026-02-23": 20,
@@ -61,7 +62,7 @@
       "2025-07-31": 116,
       "2025-07-30": 122,
       "2025-07-29": 44,
-      "2025-07-28": 47
+      "2025-07-28": 20
     }
   },
   {
@@ -70,7 +71,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "down",
-    "uptime": "47.12%",
+    "uptime": "47.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -81,7 +82,7 @@
     "timeMonth": 212,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2026-03-02": 44,
+      "2026-03-02": 1105,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
@@ -454,7 +455,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/politikundwirtschaft.de.ico",
     "slug": "politik-und-wirtschaft",
     "status": "down",
-    "uptime": "16.50%",
+    "uptime": "16.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -465,7 +466,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-02": 44,
+      "2026-03-02": 1105,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
@@ -837,18 +838,19 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.09%",
-    "uptimeYear": "99.50%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.51%",
     "time": 1259,
     "timeDay": 1500,
-    "timeWeek": 1525,
-    "timeMonth": 1540,
+    "timeWeek": 1498,
+    "timeMonth": 1539,
     "timeYear": 1262,
     "dailyMinutesDown": {
+      "2026-03-02": 0,
       "2026-02-28": 17,
       "2026-02-26": 25,
       "2026-02-23": 19,
@@ -894,8 +896,7 @@
       "2025-07-28": 147,
       "2025-07-27": 43,
       "2025-07-26": 16,
-      "2025-07-25": 55,
-      "2025-07-24": 34
+      "2025-07-25": 55
     }
   }
 ]
