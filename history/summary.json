@@ -13,7 +13,7 @@
     "time": 1406,
     "timeDay": 1834,
     "timeWeek": 1520,
-    "timeMonth": 1536,
+    "timeMonth": 1539,
     "timeYear": 1408,
     "dailyMinutesDown": {
       "2026-04-28": 55,
@@ -91,18 +91,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "down",
-    "uptime": "45.56%",
+    "uptime": "45.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 224,
     "timeDay": 200,
     "timeWeek": 198,
-    "timeMonth": 217,
+    "timeMonth": 219,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2026-04-30": 1426,
+      "2026-05-01": 66,
+      "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
       "2026-04-27": 1440,
@@ -465,8 +466,7 @@
       "2025-05-05": 1440,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
-      "2025-05-02": 1440,
-      "2025-05-01": 1440
+      "2025-05-02": 1440
     }
   },
   {
@@ -478,7 +478,7 @@
     "uptime": "15.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -486,7 +486,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-30": 1426,
+      "2026-05-01": 66,
+      "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
       "2026-04-27": 1440,
@@ -849,8 +850,7 @@
       "2025-05-05": 1440,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
-      "2025-05-02": 1440,
-      "2025-05-01": 1440
+      "2025-05-02": 1440
     }
   },
   {
@@ -867,7 +867,7 @@
     "time": 1276,
     "timeDay": 1705,
     "timeWeek": 1390,
-    "timeMonth": 1452,
+    "timeMonth": 1450,
     "timeYear": 1282,
     "dailyMinutesDown": {
       "2026-04-28": 54,
