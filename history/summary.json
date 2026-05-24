@@ -4,16 +4,16 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "98.09%",
-    "uptimeWeek": "97.49%",
-    "uptimeMonth": "98.76%",
+    "uptimeDay": "95.12%",
+    "uptimeWeek": "97.07%",
+    "uptimeMonth": "98.66%",
     "uptimeYear": "99.48%",
     "time": 1406,
-    "timeDay": 1362,
-    "timeWeek": 1564,
-    "timeMonth": 1566,
+    "timeDay": 1412,
+    "timeWeek": 1560,
+    "timeMonth": 1565,
     "timeYear": 1412,
     "dailyMinutesDown": {
       "2025-08-11": 20,
@@ -89,7 +89,7 @@
       "2026-05-19": 64,
       "2026-05-20": 68,
       "2026-05-23": 22,
-      "2026-05-24": 5
+      "2026-05-24": 48
     }
   },
   {
@@ -109,7 +109,7 @@
     "timeMonth": 105,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2026-05-24": 505,
+      "2026-05-24": 548,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -493,7 +493,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-24": 505,
+      "2026-05-24": 548,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -865,16 +865,16 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "97.91%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "99.48%",
+    "uptimeDay": "95.79%",
+    "uptimeWeek": "97.48%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "99.47%",
     "time": 1286,
-    "timeDay": 1287,
-    "timeWeek": 1647,
-    "timeMonth": 1510,
+    "timeDay": 1301,
+    "timeWeek": 1623,
+    "timeMonth": 1506,
     "timeYear": 1290,
     "dailyMinutesDown": {
       "2025-08-08": 128,
@@ -948,7 +948,7 @@
       "2026-05-19": 59,
       "2026-05-20": 63,
       "2026-05-23": 17,
-      "2026-05-24": 0
+      "2026-05-24": 43
     }
   }
 ]
