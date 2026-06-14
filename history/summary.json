@@ -4,19 +4,19 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "98.17%",
-    "uptimeYear": "99.43%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "98.15%",
+    "uptimeYear": "99.44%",
     "time": 1415,
     "timeDay": 2366,
     "timeWeek": 1835,
     "timeMonth": 1685,
     "timeYear": 1420,
     "dailyMinutesDown": {
-      "2025-08-13": 95,
+      "2025-08-13": 58,
       "2025-08-14": 33,
       "2025-08-15": 16,
       "2025-08-26": 63,
@@ -92,7 +92,8 @@
       "2026-05-30": 69,
       "2026-06-03": 98,
       "2026-06-09": 73,
-      "2026-06-11": 108
+      "2026-06-11": 108,
+      "2026-06-14": 5
     }
   },
   {
@@ -112,7 +113,7 @@
     "timeMonth": 320,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2026-06-14": 79,
+      "2026-06-14": 422,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -485,7 +486,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/politikundwirtschaft.de.ico",
     "slug": "politik-und-wirtschaft",
     "status": "down",
-    "uptime": "15.58%",
+    "uptime": "15.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -496,7 +497,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 79,
+      "2026-06-14": 422,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -868,19 +869,19 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.35%",
     "uptimeMonth": "98.36%",
     "uptimeYear": "99.44%",
-    "time": 1289,
+    "time": 1290,
     "timeDay": 1845,
     "timeWeek": 1453,
     "timeMonth": 1520,
     "timeYear": 1296,
     "dailyMinutesDown": {
-      "2025-08-11": 56,
+      "2025-08-11": 19,
       "2025-08-12": 196,
       "2025-08-13": 92,
       "2025-08-14": 32,
@@ -953,7 +954,8 @@
       "2026-05-30": 59,
       "2026-06-03": 93,
       "2026-06-09": 68,
-      "2026-06-11": 98
+      "2026-06-11": 98,
+      "2026-06-14": 0
     }
   }
 ]
