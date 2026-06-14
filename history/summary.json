@@ -4,16 +4,16 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "99.44%",
-    "time": 1415,
-    "timeDay": 2366,
-    "timeWeek": 1835,
-    "timeMonth": 1685,
+    "uptimeDay": "94.24%",
+    "uptimeWeek": "97.39%",
+    "uptimeMonth": "97.98%",
+    "uptimeYear": "99.42%",
+    "time": 1416,
+    "timeDay": 1949,
+    "timeWeek": 1807,
+    "timeMonth": 1682,
     "timeYear": 1420,
     "dailyMinutesDown": {
       "2025-08-13": 58,
@@ -93,7 +93,7 @@
       "2026-06-03": 98,
       "2026-06-09": 73,
       "2026-06-11": 108,
-      "2026-06-14": 5
+      "2026-06-14": 83
     }
   },
   {
@@ -113,7 +113,7 @@
     "timeMonth": 320,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2026-06-14": 422,
+      "2026-06-14": 500,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -497,7 +497,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 422,
+      "2026-06-14": 500,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -869,16 +869,16 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.35%",
-    "uptimeMonth": "98.36%",
-    "uptimeYear": "99.44%",
+    "uptimeDay": "94.58%",
+    "uptimeWeek": "97.58%",
+    "uptimeMonth": "98.18%",
+    "uptimeYear": "99.43%",
     "time": 1290,
-    "timeDay": 1845,
-    "timeWeek": 1453,
-    "timeMonth": 1520,
+    "timeDay": 1489,
+    "timeWeek": 1424,
+    "timeMonth": 1512,
     "timeYear": 1296,
     "dailyMinutesDown": {
       "2025-08-11": 19,
@@ -955,7 +955,7 @@
       "2026-06-03": 93,
       "2026-06-09": 68,
       "2026-06-11": 98,
-      "2026-06-14": 0
+      "2026-06-14": 78
     }
   }
 ]
