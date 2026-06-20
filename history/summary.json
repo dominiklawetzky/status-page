@@ -8,12 +8,12 @@
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.18%",
-    "uptimeMonth": "98.32%",
+    "uptimeMonth": "98.47%",
     "uptimeYear": "99.42%",
     "time": 1418,
-    "timeDay": 1701,
-    "timeWeek": 2087,
-    "timeMonth": 1739,
+    "timeDay": 1722,
+    "timeWeek": 2031,
+    "timeMonth": 1748,
     "timeYear": 1423,
     "dailyMinutesDown": {
       "2025-08-13": 58,
@@ -102,18 +102,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "down",
-    "uptime": "44.35%",
+    "uptime": "44.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 228,
     "timeDay": 38,
-    "timeWeek": 60,
+    "timeWeek": 61,
     "timeMonth": 321,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2026-06-19": 83,
+      "2026-06-20": 73,
+      "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
@@ -476,8 +477,7 @@
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
-      "2025-06-21": 1440,
-      "2025-06-20": 1440
+      "2025-06-21": 1440
     }
   },
   {
@@ -497,7 +497,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-19": 84,
+      "2026-06-20": 73,
+      "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
@@ -860,8 +861,7 @@
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
-      "2025-06-21": 1440,
-      "2025-06-20": 1440
+      "2025-06-21": 1440
     }
   },
   {
@@ -873,12 +873,12 @@
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.23%",
-    "uptimeMonth": "98.46%",
+    "uptimeMonth": "98.60%",
     "uptimeYear": "99.43%",
     "time": 1290,
-    "timeDay": 1472,
-    "timeWeek": 1471,
-    "timeMonth": 1437,
+    "timeDay": 1404,
+    "timeWeek": 1453,
+    "timeMonth": 1434,
     "timeYear": 1297,
     "dailyMinutesDown": {
       "2025-08-11": 19,
