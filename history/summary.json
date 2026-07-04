@@ -4,16 +4,16 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "99.42%",
-    "time": 1427,
-    "timeDay": 1647,
-    "timeWeek": 2030,
-    "timeMonth": 1974,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "93.06%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.40%",
+    "time": 1428,
+    "timeDay": 1914,
+    "timeWeek": 2049,
+    "timeMonth": 1980,
     "timeYear": 1428,
     "dailyMinutesDown": {
       "2025-08-14": 33,
@@ -95,7 +95,7 @@
       "2026-06-14": 83,
       "2026-06-20": 28,
       "2026-06-24": 21,
-      "2026-07-04": 5
+      "2026-07-04": 100
     }
   },
   {
@@ -115,7 +115,7 @@
     "timeMonth": 53,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2026-07-04": 746,
+      "2026-07-04": 841,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
@@ -488,7 +488,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/politikundwirtschaft.de.ico",
     "slug": "politik-und-wirtschaft",
     "status": "down",
-    "uptime": "15.41%",
+    "uptime": "15.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -499,7 +499,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-04": 746,
+      "2026-07-04": 841,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
@@ -871,16 +871,16 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.44%",
+    "uptimeDay": "93.40%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.42%",
     "time": 1293,
-    "timeDay": 1265,
-    "timeWeek": 1520,
-    "timeMonth": 1499,
+    "timeDay": 1565,
+    "timeWeek": 1563,
+    "timeMonth": 1509,
     "timeYear": 1301,
     "dailyMinutesDown": {
       "2025-08-12": 109,
@@ -959,7 +959,7 @@
       "2026-06-14": 78,
       "2026-06-20": 23,
       "2026-06-24": 16,
-      "2026-07-04": 0
+      "2026-07-04": 95
     }
   }
 ]
