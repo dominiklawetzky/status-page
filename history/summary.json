@@ -6,16 +6,17 @@
     "slug": "dominik-lawetzkys-website",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "96.21%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "99.37%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.27%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "99.36%",
     "time": 1442,
-    "timeDay": 1781,
+    "timeDay": 1782,
     "timeWeek": 2003,
     "timeMonth": 2059,
     "timeYear": 1451,
     "dailyMinutesDown": {
+      "2025-08-26": 63,
       "2025-12-08": 15,
       "2025-12-11": 86,
       "2026-01-02": 76,
@@ -94,8 +95,7 @@
       "2026-06-24": 21,
       "2026-07-04": 100,
       "2026-07-05": 81,
-      "2026-07-08": 195,
-      "2026-07-10": 6
+      "2026-07-08": 195
     }
   },
   {
@@ -110,12 +110,12 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 220,
-    "timeDay": 55,
+    "timeDay": 61,
     "timeWeek": 39,
     "timeMonth": 51,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2026-07-10": 15,
+      "2026-07-10": 237,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
@@ -499,7 +499,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-10": 15,
+      "2026-07-10": 237,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
@@ -873,17 +873,17 @@
     "slug": "anna-luehrmanns-website",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "96.40%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.41%",
     "uptimeMonth": "98.68%",
     "uptimeYear": "99.38%",
     "time": 1316,
-    "timeDay": 1299,
+    "timeDay": 1218,
     "timeWeek": 1542,
     "timeMonth": 1539,
     "timeYear": 1326,
     "dailyMinutesDown": {
-      "2025-08-12": 53,
+      "2025-08-12": 68,
       "2025-08-13": 92,
       "2025-08-14": 32,
       "2025-08-15": 16,
@@ -961,8 +961,7 @@
       "2026-06-24": 16,
       "2026-07-04": 95,
       "2026-07-05": 76,
-      "2026-07-08": 190,
-      "2026-07-10": 1
+      "2026-07-08": 190
     }
   }
 ]
