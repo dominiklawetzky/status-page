@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.58%",
     "uptimeYear": "99.34%",
-    "time": 1513,
-    "timeDay": 1813,
-    "timeWeek": 1818,
-    "timeMonth": 1966,
-    "timeYear": 1539,
+    "time": 1528,
+    "timeDay": 1936,
+    "timeWeek": 1804,
+    "timeMonth": 1959,
+    "timeYear": 1542,
     "dailyMinutesDown": {
       "2025-12-11": 46,
       "2026-01-02": 76,
@@ -105,18 +105,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "down",
-    "uptime": "43.42%",
+    "uptime": "43.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 214,
-    "timeDay": 37,
-    "timeWeek": 45,
+    "time": 213,
+    "timeDay": 62,
+    "timeWeek": 41,
     "timeMonth": 45,
-    "timeYear": 212,
+    "timeYear": 211,
     "dailyMinutesDown": {
-      "2026-07-29": 199,
+      "2026-07-30": 172,
+      "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -479,8 +480,7 @@
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
-      "2025-07-31": 1440,
-      "2025-07-30": 1440
+      "2025-07-31": 1440
     }
   },
   {
@@ -489,7 +489,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/politikundwirtschaft.de.ico",
     "slug": "politik-und-wirtschaft",
     "status": "down",
-    "uptime": "15.21%",
+    "uptime": "15.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -500,7 +500,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-29": 199,
+      "2026-07-30": 172,
+      "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -863,8 +864,7 @@
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
-      "2025-07-31": 1440,
-      "2025-07-30": 1440
+      "2025-07-31": 1440
     }
   },
   {
@@ -878,11 +878,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.64%",
     "uptimeYear": "99.35%",
-    "time": 1394,
-    "timeDay": 1407,
-    "timeWeek": 1440,
+    "time": 1412,
+    "timeDay": 1620,
+    "timeWeek": 1432,
     "timeMonth": 1526,
-    "timeYear": 1427,
+    "timeYear": 1431,
     "dailyMinutesDown": {
       "2025-08-13": 92,
       "2025-08-14": 32,
