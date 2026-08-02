@@ -4,11 +4,11 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.58%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "98.57%",
     "uptimeYear": "99.34%",
     "time": 1530,
     "timeDay": 2067,
@@ -16,7 +16,7 @@
     "timeMonth": 1971,
     "timeYear": 1553,
     "dailyMinutesDown": {
-      "2025-12-11": 46,
+      "2025-12-11": 28,
       "2026-01-02": 76,
       "2026-01-05": 17,
       "2026-01-10": 16,
@@ -96,7 +96,8 @@
       "2026-07-08": 195,
       "2026-07-11": 59,
       "2026-07-18": 93,
-      "2026-07-20": 95
+      "2026-07-20": 95,
+      "2026-08-02": 5
     }
   },
   {
@@ -105,7 +106,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "down",
-    "uptime": "43.33%",
+    "uptime": "43.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -116,7 +117,7 @@
     "timeMonth": 43,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2026-08-02": 214,
+      "2026-08-02": 280,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -500,7 +501,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-02": 214,
+      "2026-08-02": 280,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -872,19 +873,19 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.64%",
-    "uptimeYear": "99.35%",
-    "time": 1413,
+    "uptimeYear": "99.36%",
+    "time": 1414,
     "timeDay": 1689,
     "timeWeek": 1629,
     "timeMonth": 1537,
     "timeYear": 1443,
     "dailyMinutesDown": {
-      "2025-08-13": 92,
+      "2025-08-13": 56,
       "2025-08-14": 32,
       "2025-08-15": 16,
       "2025-08-26": 57,
@@ -964,7 +965,8 @@
       "2026-07-08": 190,
       "2026-07-11": 54,
       "2026-07-18": 88,
-      "2026-07-20": 90
+      "2026-07-20": 90,
+      "2026-08-02": 0
     }
   }
 ]
