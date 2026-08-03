@@ -10,11 +10,11 @@
     "uptimeWeek": "98.49%",
     "uptimeMonth": "98.23%",
     "uptimeYear": "99.31%",
-    "time": 1531,
-    "timeDay": 2067,
-    "timeWeek": 2056,
-    "timeMonth": 1973,
-    "timeYear": 1554,
+    "time": 1547,
+    "timeDay": 2349,
+    "timeWeek": 2180,
+    "timeMonth": 1997,
+    "timeYear": 1559,
     "dailyMinutesDown": {
       "2025-12-11": 28,
       "2026-01-02": 76,
@@ -106,18 +106,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "down",
-    "uptime": "43.32%",
+    "uptime": "43.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 212,
-    "timeDay": 33,
-    "timeWeek": 39,
+    "time": 211,
+    "timeDay": 26,
+    "timeWeek": 37,
     "timeMonth": 43,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2026-08-02": 428,
+      "2026-08-03": 217,
+      "2026-08-02": 1440,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -480,8 +481,7 @@
       "2025-08-07": 1440,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
-      "2025-08-04": 1440,
-      "2025-08-03": 1440
+      "2025-08-04": 1440
     }
   },
   {
@@ -501,7 +501,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-02": 428,
+      "2026-08-03": 217,
+      "2026-08-02": 1440,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -864,8 +865,7 @@
       "2025-08-07": 1440,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
-      "2025-08-04": 1440,
-      "2025-08-03": 1440
+      "2025-08-04": 1440
     }
   },
   {
@@ -879,11 +879,11 @@
     "uptimeWeek": "98.54%",
     "uptimeMonth": "98.31%",
     "uptimeYear": "99.33%",
-    "time": 1416,
-    "timeDay": 2810,
-    "timeWeek": 1917,
-    "timeMonth": 1600,
-    "timeYear": 1446,
+    "time": 1435,
+    "timeDay": 2872,
+    "timeWeek": 1970,
+    "timeMonth": 1617,
+    "timeYear": 1450,
     "dailyMinutesDown": {
       "2025-08-13": 56,
       "2025-08-14": 32,
