@@ -4,17 +4,17 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "92.69%",
-    "uptimeWeek": "94.42%",
-    "uptimeMonth": "97.94%",
-    "uptimeYear": "99.25%",
-    "time": 1590,
-    "timeDay": 2533,
-    "timeWeek": 2178,
-    "timeMonth": 2095,
-    "timeYear": 1604,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "88.16%",
+    "uptimeWeek": "93.77%",
+    "uptimeMonth": "97.79%",
+    "uptimeYear": "99.24%",
+    "time": 1591,
+    "timeDay": 2554,
+    "timeWeek": 2200,
+    "timeMonth": 2106,
+    "timeYear": 1605,
     "dailyMinutesDown": {
       "2026-01-30": 41,
       "2026-02-01": 24,
@@ -93,7 +93,8 @@
       "2026-08-09": 52,
       "2026-08-11": 43,
       "2026-08-12": 315,
-      "2026-08-13": 105
+      "2026-08-13": 109,
+      "2026-08-14": 62
     }
   },
   {
@@ -113,7 +114,8 @@
     "timeMonth": 72,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2026-08-13": 1437,
+      "2026-08-14": 63,
+      "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
       "2026-08-10": 1440,
@@ -476,8 +478,7 @@
       "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
-      "2025-08-15": 1440,
-      "2025-08-14": 1440
+      "2025-08-15": 1440
     }
   },
   {
@@ -497,7 +498,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-13": 1437,
+      "2026-08-14": 63,
+      "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
       "2026-08-10": 1440,
@@ -860,8 +862,7 @@
       "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
-      "2025-08-15": 1440,
-      "2025-08-14": 1440
+      "2025-08-15": 1440
     }
   },
   {
@@ -869,17 +870,17 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "93.38%",
-    "uptimeWeek": "95.06%",
-    "uptimeMonth": "98.12%",
-    "uptimeYear": "99.29%",
-    "time": 1474,
-    "timeDay": 1758,
-    "timeWeek": 1591,
-    "timeMonth": 1636,
-    "timeYear": 1491,
+    "uptimeDay": "88.82%",
+    "uptimeWeek": "94.41%",
+    "uptimeMonth": "97.97%",
+    "uptimeYear": "99.28%",
+    "time": 1475,
+    "timeDay": 1798,
+    "timeWeek": 1605,
+    "timeMonth": 1640,
+    "timeYear": 1492,
     "dailyMinutesDown": {
       "2026-01-02": 16,
       "2026-01-05": 17,
@@ -962,7 +963,8 @@
       "2026-08-09": 30,
       "2026-08-11": 38,
       "2026-08-12": 290,
-      "2026-08-13": 95
+      "2026-08-13": 98,
+      "2026-08-14": 63
     }
   }
 ]
