@@ -4,17 +4,17 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "78.79%",
-    "uptimeWeek": "85.84%",
-    "uptimeMonth": "95.77%",
+    "uptimeDay": "78.60%",
+    "uptimeWeek": "85.85%",
+    "uptimeMonth": "95.76%",
     "uptimeYear": "99.17%",
-    "time": 1635,
-    "timeDay": 2491,
-    "timeWeek": 2409,
-    "timeMonth": 2253,
-    "timeYear": 1647,
+    "time": 1636,
+    "timeDay": 2493,
+    "timeWeek": 2411,
+    "timeMonth": 2257,
+    "timeYear": 1648,
     "dailyMinutesDown": {
       "2026-03-05": 16,
       "2026-03-09": 18,
@@ -79,7 +79,7 @@
       "2026-08-13": 109,
       "2026-08-14": 396,
       "2026-08-15": 289,
-      "2026-08-16": 262
+      "2026-08-16": 265
     }
   },
   {
@@ -99,7 +99,7 @@
     "timeMonth": 71,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2026-08-16": 1189,
+      "2026-08-16": 1192,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -483,7 +483,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-16": 1189,
+      "2026-08-16": 1192,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -855,16 +855,16 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "83.35%",
-    "uptimeWeek": "87.89%",
-    "uptimeMonth": "96.30%",
+    "uptimeDay": "83.13%",
+    "uptimeWeek": "87.86%",
+    "uptimeMonth": "96.29%",
     "uptimeYear": "99.22%",
     "time": 1493,
-    "timeDay": 1763,
-    "timeWeek": 1714,
-    "timeMonth": 1685,
+    "timeDay": 1744,
+    "timeWeek": 1710,
+    "timeMonth": 1682,
     "timeYear": 1504,
     "dailyMinutesDown": {
       "2026-02-14": 17,
@@ -935,7 +935,7 @@
       "2026-08-13": 98,
       "2026-08-14": 373,
       "2026-08-15": 215,
-      "2026-08-16": 206
+      "2026-08-16": 209
     }
   }
 ]
