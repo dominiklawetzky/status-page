@@ -4,17 +4,17 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "83.19%",
-    "uptimeWeek": "80.11%",
-    "uptimeMonth": "93.81%",
-    "uptimeYear": "99.06%",
-    "time": 1654,
-    "timeDay": 2244,
-    "timeWeek": 2439,
-    "timeMonth": 2313,
-    "timeYear": 1678,
+    "uptimeDay": "82.60%",
+    "uptimeWeek": "80.02%",
+    "uptimeMonth": "93.79%",
+    "uptimeYear": "99.05%",
+    "time": 1655,
+    "timeDay": 2264,
+    "timeWeek": 2436,
+    "timeMonth": 2315,
+    "timeYear": 1679,
     "dailyMinutesDown": {
       "2026-03-27": 43,
       "2026-03-28": 40,
@@ -69,7 +69,7 @@
       "2026-08-16": 275,
       "2026-08-17": 254,
       "2026-08-18": 442,
-      "2026-08-19": 242
+      "2026-08-19": 251
     }
   },
   {
@@ -85,11 +85,11 @@
     "uptimeYear": "0.00%",
     "time": 206,
     "timeDay": 50,
-    "timeWeek": 58,
+    "timeWeek": 62,
     "timeMonth": 72,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2026-08-19": 1420,
+      "2026-08-19": 1429,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -473,7 +473,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-19": 1420,
+      "2026-08-19": 1429,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -845,16 +845,16 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "85.55%",
-    "uptimeWeek": "84.52%",
-    "uptimeMonth": "94.98%",
+    "uptimeDay": "84.94%",
+    "uptimeWeek": "84.43%",
+    "uptimeMonth": "94.96%",
     "uptimeYear": "99.14%",
     "time": 1496,
-    "timeDay": 1698,
-    "timeWeek": 1756,
-    "timeMonth": 1714,
+    "timeDay": 1670,
+    "timeWeek": 1747,
+    "timeMonth": 1711,
     "timeYear": 1515,
     "dailyMinutesDown": {
       "2026-03-10": 20,
@@ -919,7 +919,7 @@
       "2026-08-16": 206,
       "2026-08-17": 84,
       "2026-08-18": 378,
-      "2026-08-19": 208
+      "2026-08-19": 217
     }
   }
 ]
