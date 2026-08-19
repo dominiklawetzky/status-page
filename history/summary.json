@@ -4,17 +4,17 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "84.41%",
-    "uptimeWeek": "80.09%",
-    "uptimeMonth": "93.90%",
-    "uptimeYear": "99.06%",
-    "time": 1653,
-    "timeDay": 2331,
-    "timeWeek": 2449,
-    "timeMonth": 2321,
-    "timeYear": 1677,
+    "uptimeDay": "82.19%",
+    "uptimeWeek": "79.78%",
+    "uptimeMonth": "93.83%",
+    "uptimeYear": "99.05%",
+    "time": 1654,
+    "timeDay": 2296,
+    "timeWeek": 2440,
+    "timeMonth": 2317,
+    "timeYear": 1678,
     "dailyMinutesDown": {
       "2026-03-26": 24,
       "2026-03-27": 43,
@@ -70,7 +70,7 @@
       "2026-08-16": 275,
       "2026-08-17": 254,
       "2026-08-18": 442,
-      "2026-08-19": 205
+      "2026-08-19": 237
     }
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 73,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2026-08-19": 1060,
+      "2026-08-19": 1093,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -474,7 +474,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-19": 1060,
+      "2026-08-19": 1093,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -846,16 +846,16 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "87.81%",
-    "uptimeWeek": "84.50%",
-    "uptimeMonth": "95.05%",
-    "uptimeYear": "99.14%",
+    "uptimeDay": "85.57%",
+    "uptimeWeek": "84.18%",
+    "uptimeMonth": "94.98%",
+    "uptimeYear": "99.13%",
     "time": 1495,
-    "timeDay": 1738,
-    "timeWeek": 1760,
-    "timeMonth": 1718,
+    "timeDay": 1717,
+    "timeWeek": 1755,
+    "timeMonth": 1716,
     "timeYear": 1515,
     "dailyMinutesDown": {
       "2026-03-09": 18,
@@ -921,7 +921,7 @@
       "2026-08-16": 206,
       "2026-08-17": 84,
       "2026-08-18": 378,
-      "2026-08-19": 175
+      "2026-08-19": 208
     }
   }
 ]
