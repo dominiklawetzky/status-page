@@ -4,11 +4,11 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "84.49%",
-    "uptimeWeek": "82.84%",
-    "uptimeMonth": "92.22%",
+    "uptimeDay": "84.96%",
+    "uptimeWeek": "82.91%",
+    "uptimeMonth": "92.24%",
     "uptimeYear": "99.06%",
     "time": 1701,
     "timeDay": 2300,
@@ -51,7 +51,7 @@
       "2026-08-20": 248,
       "2026-08-21": 105,
       "2026-08-22": 221,
-      "2026-08-23": 223
+      "2026-08-23": 216
     }
   },
   {
@@ -60,7 +60,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "down",
-    "uptime": "42.84%",
+    "uptime": "42.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -71,7 +71,7 @@
     "timeMonth": 74,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2026-08-23": 1375,
+      "2026-08-23": 1402,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -455,7 +455,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-23": 1375,
+      "2026-08-23": 1402,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -827,17 +827,17 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "91.22%",
-    "uptimeWeek": "87.71%",
-    "uptimeMonth": "93.88%",
-    "uptimeYear": "99.12%",
+    "uptimeDay": "91.72%",
+    "uptimeWeek": "87.78%",
+    "uptimeMonth": "93.90%",
+    "uptimeYear": "99.13%",
     "time": 1518,
     "timeDay": 1740,
     "timeWeek": 1740,
     "timeMonth": 1720,
-    "timeYear": 1527,
+    "timeYear": 1528,
     "dailyMinutesDown": {
       "2026-04-05": 25,
       "2026-04-08": 27,
@@ -890,7 +890,7 @@
       "2026-08-20": 204,
       "2026-08-21": 70,
       "2026-08-22": 171,
-      "2026-08-23": 126
+      "2026-08-23": 119
     }
   }
 ]
