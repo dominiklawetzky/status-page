@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "87.86%",
-    "uptimeMonth": "90.68%",
-    "uptimeYear": "99.10%",
+    "uptime": "99.81%",
+    "uptimeDay": "56.01%",
+    "uptimeWeek": "82.02%",
+    "uptimeMonth": "89.25%",
+    "uptimeYear": "98.98%",
     "time": 1711,
-    "timeDay": 1910,
-    "timeWeek": 2356,
+    "timeDay": 0,
+    "timeWeek": 2352,
     "timeMonth": 2364,
     "timeYear": 1743,
     "dailyMinutesDown": {
@@ -42,7 +42,7 @@
       "2026-08-24": 286,
       "2026-08-25": 239,
       "2026-08-26": 154,
-      "2026-08-28": 5
+      "2026-08-28": 633
     }
   },
   {
@@ -57,12 +57,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 204,
-    "timeDay": 35,
-    "timeWeek": 76,
-    "timeMonth": 80,
+    "timeDay": 171,
+    "timeWeek": 90,
+    "timeMonth": 83,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2026-08-28": 33,
+      "2026-08-28": 661,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
@@ -446,7 +446,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-28": 33,
+      "2026-08-28": 661,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
@@ -819,14 +819,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "90.78%",
-    "uptimeMonth": "92.59%",
-    "uptimeYear": "99.09%",
-    "time": 1514,
-    "timeDay": 1550,
-    "timeWeek": 1708,
+    "uptime": "99.81%",
+    "uptimeDay": "56.37%",
+    "uptimeWeek": "84.90%",
+    "uptimeMonth": "91.16%",
+    "uptimeYear": "98.97%",
+    "time": 1515,
+    "timeDay": 0,
+    "timeWeek": 1703,
     "timeMonth": 1726,
     "timeYear": 1533,
     "dailyMinutesDown": {
@@ -871,7 +871,7 @@
       "2026-08-24": 257,
       "2026-08-25": 176,
       "2026-08-26": 137,
-      "2026-08-28": 0
+      "2026-08-28": 628
     }
   }
 ]
