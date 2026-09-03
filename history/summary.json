@@ -4,17 +4,17 @@
     "url": "https://dominiklawetzky.de",
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "81.46%",
-    "uptimeWeek": "79.31%",
-    "uptimeMonth": "86.28%",
-    "uptimeYear": "98.81%",
-    "time": 1721,
-    "timeDay": 2275,
-    "timeWeek": 2228,
-    "timeMonth": 2370,
-    "timeYear": 1752,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "81.50%",
+    "uptimeWeek": "78.22%",
+    "uptimeMonth": "86.03%",
+    "uptimeYear": "98.79%",
+    "time": 1722,
+    "timeDay": 2409,
+    "timeWeek": 2269,
+    "timeMonth": 2371,
+    "timeYear": 1753,
     "dailyMinutesDown": {
       "2026-07-20": 95,
       "2026-08-02": 152,
@@ -40,7 +40,8 @@
       "2026-08-29": 336,
       "2026-08-30": 70,
       "2026-09-01": 822,
-      "2026-09-02": 191
+      "2026-09-02": 266,
+      "2026-09-03": 35
     }
   },
   {
@@ -57,10 +58,11 @@
     "time": 203,
     "timeDay": 112,
     "timeWeek": 79,
-    "timeMonth": 88,
-    "timeYear": 191,
+    "timeMonth": 90,
+    "timeYear": 190,
     "dailyMinutesDown": {
-      "2026-09-02": 1365,
+      "2026-09-03": 35,
+      "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -423,8 +425,7 @@
       "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
-      "2025-09-04": 1440,
-      "2025-09-03": 1440
+      "2025-09-04": 1440
     }
   },
   {
@@ -444,7 +445,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-02": 1365,
+      "2026-09-03": 35,
+      "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -807,8 +809,7 @@
       "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
-      "2025-09-04": 1440,
-      "2025-09-03": 1440
+      "2025-09-04": 1440
     }
   },
   {
@@ -816,15 +817,15 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "82.13%",
-    "uptimeWeek": "79.65%",
-    "uptimeMonth": "88.25%",
-    "uptimeYear": "98.77%",
-    "time": 1517,
-    "timeDay": 1547,
-    "timeWeek": 1563,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "82.15%",
+    "uptimeWeek": "78.55%",
+    "uptimeMonth": "88.00%",
+    "uptimeYear": "98.75%",
+    "time": 1518,
+    "timeDay": 1648,
+    "timeWeek": 1589,
     "timeMonth": 1705,
     "timeYear": 1535,
     "dailyMinutesDown": {
@@ -867,7 +868,8 @@
       "2026-08-29": 326,
       "2026-08-30": 70,
       "2026-09-01": 813,
-      "2026-09-02": 183
+      "2026-09-02": 258,
+      "2026-09-03": 35
     }
   }
 ]
