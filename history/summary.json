@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
     "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "85.86%",
-    "uptimeWeek": "86.49%",
-    "uptimeMonth": "82.44%",
-    "uptimeYear": "98.54%",
+    "uptime": "99.72%",
+    "uptimeDay": "66.65%",
+    "uptimeWeek": "83.75%",
+    "uptimeMonth": "81.81%",
+    "uptimeYear": "98.48%",
     "time": 1741,
     "timeDay": 1665,
     "timeWeek": 2348,
-    "timeMonth": 2398,
+    "timeMonth": 2396,
     "timeYear": 1771,
     "dailyMinutesDown": {
       "2026-08-13": 109,
@@ -42,7 +42,7 @@
       "2026-09-08": 29,
       "2026-09-09": 266,
       "2026-09-10": 307,
-      "2026-09-11": 204
+      "2026-09-11": 480
     }
   },
   {
@@ -62,7 +62,7 @@
     "timeMonth": 73,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2026-09-11": 1102,
+      "2026-09-11": 1379,
       "2026-09-10": 1440,
       "2026-09-09": 1440,
       "2026-09-08": 1440,
@@ -446,7 +446,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-11": 1102,
+      "2026-09-11": 1379,
       "2026-09-10": 1440,
       "2026-09-09": 1440,
       "2026-09-08": 1440,
@@ -818,16 +818,16 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "88.85%",
-    "uptimeMonth": "84.11%",
-    "uptimeYear": "98.51%",
+    "status": "up",
+    "uptime": "99.71%",
+    "uptimeDay": "80.79%",
+    "uptimeWeek": "86.11%",
+    "uptimeMonth": "83.56%",
+    "uptimeYear": "98.46%",
     "time": 1526,
-    "timeDay": 1831,
-    "timeWeek": 1691,
-    "timeMonth": 1722,
+    "timeDay": 1612,
+    "timeWeek": 1666,
+    "timeMonth": 1718,
     "timeYear": 1535,
     "dailyMinutesDown": {
       "2026-06-20": 23,
@@ -869,7 +869,7 @@
       "2026-09-08": 24,
       "2026-09-09": 261,
       "2026-09-10": 297,
-      "2026-09-11": 0
+      "2026-09-11": 277
     }
   }
 ]
