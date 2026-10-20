@@ -9,7 +9,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "88.01%",
+    "uptimeYear": "88.00%",
     "time": 1742,
     "timeDay": 0,
     "timeWeek": 0,
@@ -42,7 +42,7 @@
       "2026-09-08": 29,
       "2026-09-09": 266,
       "2026-09-10": 307,
-      "2026-10-20": 267,
+      "2026-10-20": 312,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
@@ -101,7 +101,7 @@
     "timeMonth": 115,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2026-10-20": 267,
+      "2026-10-20": 312,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
@@ -485,7 +485,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-20": 267,
+      "2026-10-20": 312,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
@@ -857,17 +857,17 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "66.52%",
-    "uptimeWeek": "77.55%",
+    "uptimeDay": "63.41%",
+    "uptimeWeek": "77.11%",
     "uptimeMonth": "81.63%",
-    "uptimeYear": "96.73%",
+    "uptimeYear": "96.72%",
     "time": 1542,
-    "timeDay": 1674,
-    "timeWeek": 1717,
-    "timeMonth": 1693,
-    "timeYear": 1559,
+    "timeDay": 1730,
+    "timeWeek": 1721,
+    "timeMonth": 1694,
+    "timeYear": 1560,
     "dailyMinutesDown": {
       "2026-08-20": 94,
       "2026-08-21": 70,
@@ -919,7 +919,7 @@
       "2026-10-16": 198,
       "2026-10-18": 423,
       "2026-10-19": 358,
-      "2026-10-20": 158
+      "2026-10-20": 203
     }
   }
 ]
