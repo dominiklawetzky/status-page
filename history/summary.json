@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
     "status": "down",
-    "uptime": "97.07%",
+    "uptime": "97.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.97%",
+    "uptimeYear": "83.92%",
     "time": 1743,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1794,
+    "timeYear": 1795,
     "dailyMinutesDown": {
       "2026-08-13": 109,
       "2026-08-14": 396,
@@ -42,7 +42,8 @@
       "2026-09-08": 29,
       "2026-09-09": 266,
       "2026-09-10": 307,
-      "2026-11-03": 1353,
+      "2026-11-04": 149,
+      "2026-11-03": 1440,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
@@ -111,11 +112,12 @@
     "uptimeYear": "0.00%",
     "time": 190,
     "timeDay": 127,
-    "timeWeek": 87,
-    "timeMonth": 90,
+    "timeWeek": 92,
+    "timeMonth": 89,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2026-11-03": 1353,
+      "2026-11-04": 149,
+      "2026-11-03": 1440,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
@@ -478,8 +480,7 @@
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
-      "2025-11-05": 1440,
-      "2025-11-04": 1440
+      "2025-11-05": 1440
     }
   },
   {
@@ -499,7 +500,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-03": 1353,
+      "2026-11-04": 149,
+      "2026-11-03": 1440,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
@@ -862,8 +864,7 @@
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
-      "2025-11-05": 1440,
-      "2025-11-04": 1440
+      "2025-11-05": 1440
     }
   },
   {
@@ -871,17 +872,17 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "down",
-    "uptime": "99.23%",
-    "uptimeDay": "94.38%",
-    "uptimeWeek": "80.42%",
-    "uptimeMonth": "76.86%",
-    "uptimeYear": "95.77%",
+    "status": "up",
+    "uptime": "99.22%",
+    "uptimeDay": "78.01%",
+    "uptimeWeek": "78.33%",
+    "uptimeMonth": "76.37%",
+    "uptimeYear": "95.73%",
     "time": 1554,
-    "timeDay": 1994,
-    "timeWeek": 1673,
-    "timeMonth": 1716,
-    "timeYear": 1569,
+    "timeDay": 1895,
+    "timeWeek": 1723,
+    "timeMonth": 1718,
+    "timeYear": 1570,
     "dailyMinutesDown": {
       "2026-08-24": 105,
       "2026-08-25": 176,
@@ -942,7 +943,8 @@
       "2026-10-30": 544,
       "2026-10-31": 834,
       "2026-11-01": 120,
-      "2026-11-03": 81
+      "2026-11-03": 168,
+      "2026-11-04": 149
     }
   }
 ]
