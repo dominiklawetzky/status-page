@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dominiklawetzky.de.ico",
     "slug": "dominik-lawetzkys-website",
     "status": "down",
-    "uptime": "97.06%",
+    "uptime": "97.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.89%",
+    "uptimeYear": "83.64%",
     "time": 1743,
     "timeDay": 0,
     "timeWeek": 0,
@@ -42,7 +42,8 @@
       "2026-09-08": 29,
       "2026-09-09": 266,
       "2026-09-10": 307,
-      "2026-11-04": 351,
+      "2026-11-05": 182,
+      "2026-11-04": 1440,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
@@ -105,18 +106,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "down",
-    "uptime": "41.28%",
+    "uptime": "41.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 189,
-    "timeDay": 57,
-    "timeWeek": 87,
-    "timeMonth": 88,
+    "timeDay": 0,
+    "timeWeek": 81,
+    "timeMonth": 86,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2026-11-04": 351,
+      "2026-11-05": 182,
+      "2026-11-04": 1440,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
@@ -479,8 +481,7 @@
       "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
-      "2025-11-06": 1440,
-      "2025-11-05": 1440
+      "2025-11-06": 1440
     }
   },
   {
@@ -489,7 +490,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/politikundwirtschaft.de.ico",
     "slug": "politik-und-wirtschaft",
     "status": "down",
-    "uptime": "14.46%",
+    "uptime": "14.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -500,7 +501,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-04": 351,
+      "2026-11-05": 182,
+      "2026-11-04": 1440,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
@@ -863,8 +865,7 @@
       "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
-      "2025-11-06": 1440,
-      "2025-11-05": 1440
+      "2025-11-06": 1440
     }
   },
   {
@@ -872,19 +873,19 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "83.61%",
-    "uptimeWeek": "78.33%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "78.53%",
     "uptimeMonth": "76.37%",
     "uptimeYear": "95.73%",
-    "time": 1554,
-    "timeDay": 1473,
-    "timeWeek": 1659,
-    "timeMonth": 1708,
+    "time": 1553,
+    "timeDay": 0,
+    "timeWeek": 1695,
+    "timeMonth": 1706,
     "timeYear": 1569,
     "dailyMinutesDown": {
-      "2026-08-24": 105,
+      "2026-08-24": 83,
       "2026-08-25": 176,
       "2026-08-26": 137,
       "2026-08-28": 660,
@@ -944,7 +945,8 @@
       "2026-10-31": 834,
       "2026-11-01": 120,
       "2026-11-03": 168,
-      "2026-11-04": 149
+      "2026-11-04": 149,
+      "2026-11-05": 0
     }
   }
 ]
