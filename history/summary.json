@@ -9,7 +9,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.30%",
+    "uptimeYear": "80.27%",
     "time": 1747,
     "timeDay": 0,
     "timeWeek": 0,
@@ -42,7 +42,7 @@
       "2026-09-08": 29,
       "2026-09-09": 266,
       "2026-09-10": 307,
-      "2026-11-17": 453,
+      "2026-11-17": 645,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
@@ -118,7 +118,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gj-rtk.de.ico",
     "slug": "gruene-jugend-rheingau-taunus",
     "status": "down",
-    "uptime": "41.02%",
+    "uptime": "41.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -129,7 +129,7 @@
     "timeMonth": 79,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2026-11-17": 453,
+      "2026-11-17": 645,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
@@ -513,7 +513,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-17": 453,
+      "2026-11-17": 645,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
@@ -885,9 +885,9 @@
     "url": "https://anna-luehrmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/anna-luehrmann.de.ico",
     "slug": "anna-luehrmanns-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "87.84%",
     "uptimeMonth": "78.98%",
     "uptimeYear": "95.33%",
@@ -897,7 +897,7 @@
     "timeMonth": 1722,
     "timeYear": 1574,
     "dailyMinutesDown": {
-      "2026-08-26": 137,
+      "2026-08-26": 108,
       "2026-08-28": 660,
       "2026-08-29": 326,
       "2026-08-30": 70,
@@ -964,7 +964,8 @@
       "2026-11-10": 387,
       "2026-11-13": 768,
       "2026-11-15": 149,
-      "2026-11-14": 7
+      "2026-11-14": 7,
+      "2026-11-17": 0
     }
   }
 ]
